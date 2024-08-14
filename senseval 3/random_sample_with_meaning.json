@@ -1,0 +1,3897 @@
+[
+  {
+    "sentence": "Fragmentation and <target>flow</target> regulation of large river systems, by region.",
+    "target_word": "flow",
+    "target_id": "bn:00035372n",
+    "lemma": "flow",
+    "pos": "n",
+    "defs": [
+      "the motion characteristic of fluids (liquids or gases)",
+      "the amount of fluid that flows in a given time",
+      "the act of flowing or streaming; continuous progression",
+      "any uninterrupted stream or discharge",
+      "something that resembles a flowing stream in moving continuously",
+      "dominant course (suggestive of running water) of successive events or ideas",
+      "the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --Hippocrates; --Aristotle"
+    ],
+    "gold": "The act of flowing or streaming; continuous progression"
+  },
+  {
+    "sentence": "All this may not be obvious to the <target>public</target>, which is concerned about advances in treatment, but I am convinced this basic research will begin showing results there soon.``",
+    "target_word": "public",
+    "target_id": "bn:00063584n",
+    "lemma": "public",
+    "pos": "n",
+    "defs": [
+      "people in general considered as a whole",
+      "a body of people sharing some common interest"
+    ],
+    "gold": "People in general considered as a whole"
+  },
+  {
+    "sentence": "Ringers memorize patterns of <target>changes</target>, known as`` methods,`` which have odd-sounding names like Kent Treble Bob Major or Grandsire Caters.",
+    "target_word": "changes",
+    "target_id": "bn:00017653n",
+    "lemma": "change",
+    "pos": "n",
+    "defs": [
+      "an event that occurs when something passes from one state or phase to another",
+      "a relational difference between states; especially between states before and after some event",
+      "the action of changing something",
+      "the result of alteration or modification",
+      "the balance of money received when the amount you tender is greater than the amount due",
+      "a thing that is different",
+      "a different or fresh set of clothes",
+      "coins of small denomination regarded collectively",
+      "money received in return for its equivalent in a larger denomination or a different currency",
+      "a difference that is usually pleasant"
+    ],
+    "gold": "The result of alteration or modification"
+  },
+  {
+    "sentence": "But it is about a long term advantage, with a certain degree of indetermination, because the team can be eliminated first of change, and in addition with this action the players fulfil a <target>sanction</target> game and go to the second cycle of cards, in which the suspension by card accumulation takes place with one less than in the first cycle.",
+    "target_word": "sanction",
+    "target_id": "bn:00069122n",
+    "lemma": "sanction",
+    "pos": "n",
+    "defs": [
+      "formal and explicit approval",
+      "a mechanism of social control for enforcing a society's standards",
+      "official permission or approval",
+      "the act of final authorization"
+    ],
+    "gold": "A mechanism of social control for enforcing a society's standards"
+  },
+  {
+    "sentence": "His shout had been involuntary, something anybody might have done without <target>thinking</target>, on the spur of the moment.",
+    "target_word": "thinking",
+    "target_id": "bn:00017339n",
+    "lemma": "thinking",
+    "pos": "n",
+    "defs": [
+      "the process of using your mind to consider something carefully"
+    ],
+    "gold": "The process of using your mind to consider something carefully"
+  },
+  {
+    "sentence": "The new money flows into the already top-heavy administrative structure, which busies itself <target>piling</target> more and more paper work on the teachers.",
+    "target_word": "piling",
+    "target_id": "bn:00091631v",
+    "lemma": "pile",
+    "pos": "v",
+    "defs": [
+      "arrange in stacks",
+      "press tightly together or cram",
+      "place or lay as if in a pile"
+    ],
+    "gold": "Place or lay as if in a pile"
+  },
+  {
+    "sentence": "There are many successful <target>schools</target> scattered throughout this nation, some of them in the poorest of ghettos, and they are all sending us the same message.",
+    "target_word": "schools",
+    "target_id": "bn:00069619n",
+    "lemma": "school",
+    "pos": "n",
+    "defs": [
+      "an educational institution",
+      "a building where young people receive education",
+      "the process of being formally educated at a school",
+      "a body of creative artists or writers or thinkers linked by a similar style or by similar teachers",
+      "the period of instruction in a school; the time period when school is in session",
+      "an educational institution's faculty and students",
+      "a large group of fish"
+    ],
+    "gold": "An educational institution"
+  },
+  {
+    "sentence": "I was convinced that what was <target>true</target> of retinoblastoma would be true for all cancers.``",
+    "target_word": "true",
+    "target_id": "bn:00112146a",
+    "lemma": "true",
+    "pos": "a",
+    "defs": [
+      "consistent with fact or reality; not false; ; - B. Russell",
+      "accurately placed or thrown",
+      "devoted (sometimes fanatically) to a cause or concept or truth",
+      "expressing or given to expressing the truth",
+      "conforming to definitive criteria",
+      "worthy of being depended on",
+      "not pretended; sincerely felt or expressed",
+      "rightly so called",
+      "determined with reference to the earth's axis rather than the magnetic poles",
+      "having a legally established claim",
+      "in tune; accurate in pitch",
+      "accurately fitted; level"
+    ],
+    "gold": "Consistent with fact or reality; not false"
+  },
+  {
+    "sentence": "However, the paradoxical thing about the action of the players of Real Madrid is that it did not comply to what we normally characterize as legal fraud, because the violation of the <target>rules</target> was not made secretly as to try to avoid the sanction, but their action was most evident and thus they received punishment from the referee.",
+    "target_word": "rules",
+    "target_id": "bn:00064192n",
+    "lemma": "rule",
+    "pos": "n",
+    "defs": [
+      "a principle or condition that customarily governs behavior",
+      "something regarded as a normative example",
+      "prescribed guide for conduct or action",
+      "(linguistics) a rule describing (or prescribing) a linguistic practice",
+      "a basic generalization that is accepted as true and that can be used as a basis for reasoning or conduct",
+      "the duration of a monarch's or government's power",
+      "dominance or power through legal authority",
+      "directions that define the way a game or sport is to be conducted",
+      "any one of a systematic body of regulations defining the way of life of members of a religious order",
+      "a rule or law concerning a natural phenomenon or the function of a complex system",
+      "(mathematics) a standard procedure for solving a class of mathematical problems",
+      "measuring stick consisting of a strip of wood or metal or plastic with a straight edge that is used for drawing straight lines and measuring lengths"
+    ],
+    "gold": "Prescribed guide for conduct or action"
+  },
+  {
+    "sentence": "Mr. Quinlan, 30 years old, knew he carried a damaged gene, having lost an eye to the rare tumor when he was only two months old-- after his <target>mother</target> had suffered the same fate when she was a baby.",
+    "target_word": "mother",
+    "target_id": "bn:00034027n",
+    "lemma": "mother",
+    "pos": "n",
+    "defs": [
+      "a woman who has given birth to a child (also used as a term of address to your mother)",
+      "a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar",
+      "a term of address for an elderly woman",
+      "a term of address for a mother superior",
+      "a condition that is the inspiration for an activity or situation"
+    ],
+    "gold": "A woman who has given birth to a child (also used as a term of address to your mother)"
+  },
+  {
+    "sentence": "Frankly, the <target>market</target> is very calm, observes Mace Blicksilver of Marblehead Asset Management.",
+    "target_word": "market",
+    "target_id": "bn:00053460n",
+    "lemma": "market",
+    "pos": "n",
+    "defs": [
+      "the world of commercial activity where goods and services are bought and sold",
+      "the customers for a particular product or service",
+      "a marketplace where groceries are sold",
+      "the securities markets in the aggregate",
+      "an area in a town where a public mercantile establishment is set up"
+    ],
+    "gold": "The securities markets in the aggregate"
+  },
+  {
+    "sentence": "But it is about a long term advantage, with a certain <target>degree</target> of indetermination, because the team can be eliminated first of change, and in addition with this action the players fulfil a sanction game and go to the second cycle of cards, in which the suspension by card accumulation takes place with one less than in the first cycle.",
+    "target_word": "degree",
+    "target_id": "bn:00025966n",
+    "lemma": "degree",
+    "pos": "n",
+    "defs": [
+      "a position on a scale of intensity or amount or quality",
+      "a specific identifiable position in a continuum or series or especially in a process",
+      "an award conferred by a college or university signifying that the recipient has satisfactorily completed a course of study",
+      "a measure for arcs and angles",
+      "the highest power of a term or variable",
+      "a unit of temperature on a specified scale",
+      "the seriousness of something (e.g., a burn or crime)"
+    ],
+    "gold": "A specific identifiable position in a continuum or series or especially in a process"
+  },
+  {
+    "sentence": "Executes the <target>instructions</target> in a file sequentially.",
+    "target_word": "instructions",
+    "target_id": "bn:00020945n",
+    "lemma": "instruction",
+    "pos": "n",
+    "defs": [
+      "a message describing how something is to be done",
+      "the activities of educating or instructing; activities that impart knowledge or skill",
+      "the profession of a teacher",
+      "(computer science) a line of code written as part of a computer program"
+    ],
+    "gold": "(computer science) a line of code written as part of a computer program"
+  },
+  {
+    "sentence": "In this polder, within a short period of time, the Oostvaardersplassen have developed into a wonderful natural site with an unprecedented wealth of bird <target>life</target>, although initially it was intended as an industrial area.",
+    "target_word": "life",
+    "target_id": "bn:00051053n",
+    "lemma": "life",
+    "pos": "n",
+    "defs": [
+      "a characteristic state or mode of living",
+      "the experience of being alive; the course of human events and activities",
+      "the course of existence of an individual; the actions and events that occur in living",
+      "the condition of living or the state of being alive",
+      "the period during which something is functional (as between birth and death)",
+      "the period between birth and the present time",
+      "the period from the present until death",
+      "a living person",
+      "animation and energy in action or expression",
+      "living things collectively",
+      "the organic phenomenon that distinguishes living organisms from nonliving ones",
+      "an account of the series of events making up a person's life",
+      "a motive for living",
+      "a prison term lasting as long as the prisoner lives"
+    ],
+    "gold": "Living things collectively"
+  },
+  {
+    "sentence": "But if the genes are damaged-- perhaps by radiation, a chemical or through a chance <target>accident</target> in cell division-- their growth-suppressing proteins no longer work, and cells normally under control turn malignant.",
+    "target_word": "accident",
+    "target_id": "bn:00000691n",
+    "lemma": "accident",
+    "pos": "n",
+    "defs": [
+      "an unfortunate mishap; especially one causing damage or injury",
+      "anything that happens suddenly or by chance without an apparent cause"
+    ],
+    "gold": "Anything that happens suddenly or by chance without an apparent cause"
+  },
+  {
+    "sentence": "It is calculated as the <target>average</target> of three separate indices that measure trends in populations of 695 terrestrial species, 274 marine species, and 344 freshwater species.",
+    "target_word": "average",
+    "target_id": "bn:00007449n",
+    "lemma": "average",
+    "pos": "n",
+    "defs": [
+      "a statistic describing the location of a distribution",
+      "(sports) the ratio of successful performances to opportunities",
+      "an intermediate scale value regarded as normal or usual"
+    ],
+    "gold": "A statistic describing the location of a distribution"
+  },
+  {
+    "sentence": "A cross-state econometric investigation, furthermore, reveals that, holding other factors constant, the difference between a state 's major- party vote going to the <target>Republican</target> gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate.",
+    "target_word": "Republican",
+    "target_id": "bn:00109704a",
+    "lemma": "republican",
+    "pos": "a",
+    "defs": [
+      "relating to or belonging to the Republican Party",
+      "having the supreme power lying in the body of citizens entitled to vote for officers and representatives responsible to them or characteristic of such government; - United States Constitution; ; - Philip Marsh; -Nathaniel Hawthorne"
+    ],
+    "gold": "Relating to or belonging to the Republican Party"
+  },
+  {
+    "sentence": "Totally absorbed, the ringers stare straight ahead, using peripheral vision( they call it`` rope-sight``) to watch the other ropes and thus time their <target>pulls</target>.",
+    "target_word": "pulls",
+    "target_id": "bn:00065158n",
+    "lemma": "pull",
+    "pos": "n",
+    "defs": [
+      "the act of pulling; applying force to move something toward or with you",
+      "the force used in pulling",
+      "special advantage or influence",
+      "a device used for pulling something",
+      "a sharp strain on muscles or ligaments",
+      "a slow inhalation (as of tobacco smoke)",
+      "a sustained effort"
+    ],
+    "gold": "The act of pulling; applying force to move something toward or with you"
+  },
+  {
+    "sentence": "No one speaks, and the snaking of the ropes seems to make as much sound as the bells themselves, <target>muffled</target> by the ceiling.",
+    "target_word": "muffled",
+    "target_id": "bn:00086264v",
+    "lemma": "muffle",
+    "pos": "v",
+    "defs": [
+      "conceal or hide",
+      "deaden (a sound or noise), especially by wrapping"
+    ],
+    "gold": "Deaden (a sound or noise), especially by wrapping"
+  },
+  {
+    "sentence": "Like all genes, tumor-suppressor genes are inherited in two <target>copies</target>, one from each parent.",
+    "target_word": "copies",
+    "target_id": "bn:00022526n",
+    "lemma": "copy",
+    "pos": "n",
+    "defs": [
+      "a reproduction of a written record (e.g. of a legal or school record)",
+      "a thing made to be similar or identical to another thing",
+      "matter to be printed; exclusive of graphical materials",
+      "material suitable for a journalistic account"
+    ],
+    "gold": "A thing made to be similar or identical to another thing"
+  },
+  {
+    "sentence": "It is the kind of libel the teachers' unions do not mind spreading, for their own narrow <target>purposes</target>.",
+    "target_word": "purposes",
+    "target_id": "bn:00002178n",
+    "lemma": "purpose",
+    "pos": "n",
+    "defs": [
+      "an anticipated outcome that is intended or that guides your planned actions",
+      "what something is used for",
+      "the quality of being determined to do or achieve something; firmness of purpose"
+    ],
+    "gold": "An anticipated outcome that is intended or that guides your planned actions"
+  },
+  {
+    "sentence": "Let us sum up what we do know about education and about those education reforms that do <target>work</target> and do not work:--`` Parental involvement`` is a bad idea.",
+    "target_word": "work",
+    "target_id": "bn:00082291v",
+    "lemma": "work",
+    "pos": "v",
+    "defs": [
+      "exert oneself by doing mental or physical work for a purpose or out of necessity",
+      "be employed",
+      "have an effect or outcome; often the one desired or expected",
+      "perform as expected when applied",
+      "shape, form, or improve a material",
+      "give a workout to",
+      "proceed along a path",
+      "operate in a certain place, area, or specialty",
+      "proceed towards a goal or along a path or through an activity",
+      "move in an agitated manner",
+      "cause to happen or to occur as a consequence",
+      "cause to work",
+      "prepare for crops",
+      "behave in a certain way when handled",
+      "have and exert influence or effect",
+      "operate in or through",
+      "cause to operate or function",
+      "provoke or excite",
+      "gratify and charm, usually in order to influence",
+      "make something, usually for a specific function",
+      "move into or onto",
+      "make uniform",
+      "use or manipulate to one's advantage",
+      "find the solution to (a problem or question) or understand the meaning of",
+      "cause to undergo fermentation",
+      "go sour or spoil",
+      "arrive at a certain condition through repeated motion"
+    ],
+    "gold": "Have an effect or outcome; often the one desired or expected"
+  },
+  {
+    "sentence": "The spatial coherence- and therefore the functioning- of the National Ecological Network is enhanced by constructing boundaries in a smarter way and by <target>realising</target> green connections between and within nature areas.",
+    "target_word": "realising",
+    "target_id": "bn:00082311v",
+    "lemma": "realise",
+    "pos": "v",
+    "defs": [
+      "earn on some commercial or business transaction; earn as salary or wages",
+      "convert into cash; of goods and property",
+      "expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass",
+      "make real or concrete; give reality or substance to",
+      "be fully aware or cognizant of",
+      "perceive (an idea or situation) mentally"
+    ],
+    "gold": "Make real or concrete; give reality or substance to"
+  },
+  {
+    "sentence": "This <target>decline</target> hides a marked difference in trends between temperate and tropical species.",
+    "target_word": "decline",
+    "target_id": "bn:00025746n",
+    "lemma": "decline",
+    "pos": "n",
+    "defs": [
+      "change toward something smaller or lower",
+      "a condition inferior to an earlier condition; a gradual falling off from a better state",
+      "a gradual decrease; as of stored charge or current",
+      "a downward slope or bend"
+    ],
+    "gold": "Change toward something smaller or lower"
+  },
+  {
+    "sentence": "A look at a Thursday night practice at St. Mary Abbot <target>church</target> in the Kensington district of London gives an idea of the work involved.",
+    "target_word": "church",
+    "target_id": "bn:00018995n",
+    "lemma": "church",
+    "pos": "n",
+    "defs": [
+      "one of the groups of Christians who have their own beliefs and forms of worship",
+      "a place for public (especially Christian) worship",
+      "a service conducted in a house of worship",
+      "the body of people who attend or belong to a particular local church"
+    ],
+    "gold": "A place for public (especially Christian) worship"
+  },
+  {
+    "sentence": "Within the Humber Estuary Ramsar site there are good examples of four of the five physiographic <target>types</target> of saline lagoon.",
+    "target_word": "types",
+    "target_id": "bn:00078801n",
+    "lemma": "type",
+    "pos": "n",
+    "defs": [
+      "a subdivision of a particular kind of thing",
+      "a person of a specified kind (usually with many eccentricities)",
+      "(biology) the taxonomic group whose characteristics are used to define the next higher taxon",
+      "printed characters",
+      "all of the tokens of the same symbol",
+      "a small metal block bearing a raised character on one end; produces a printed character when inked and pressed on paper"
+    ],
+    "gold": "All of the tokens of the same symbol"
+  },
+  {
+    "sentence": "The whole notion of`` creativity`` in education w<target>as</target>( and is) part and parcel of a romantic rebellion against disciplined instruction, which was( and is) regarded as`` authoritarian,`` a repression and frustration of the latent talents and the wonderful, if as yet undefined, potentialities inherent in the souls of all our children.",
+    "target_word": "as",
+    "target_id": "bn:00114354r",
+    "lemma": "as",
+    "pos": "r",
+    "defs": [
+      "to the same degree (often followed by `as')"
+    ],
+    "gold": "To the same degree (often followed by `as')"
+  },
+  {
+    "sentence": "The <target>defense lawyers</target> also claim, for example, that Mr. Hayes may have been prejudiced when Judge Blue declined to allow them to test potential jurors' reactions by showing them grisly crime-scene photographs during jury selection.",
+    "target_word": "defense lawyers",
+    "target_id": "bn:00025890n",
+    "lemma": "defense_lawyer",
+    "pos": "n",
+    "defs": [
+      "the lawyer representing the defendant"
+    ],
+    "gold": "The lawyer representing the defendant"
+  },
+  {
+    "sentence": "The European Union gave the talks a boost as well on Friday by pledging to provide$ 3.6 billion a year over the next three years to help poorer countries adapt to the impact of <target>climate change</target>-- from coping with flood and drought to avoiding deforestation.",
+    "target_word": "climate change",
+    "target_id": "bn:00019782n",
+    "lemma": "climate_change",
+    "pos": "n",
+    "defs": [
+      "a change in the world's climate"
+    ],
+    "gold": "A change in the world's climate"
+  },
+  {
+    "sentence": "Already on Thursday, the US bank was able to announce a capital increase of some USD 20 billion, reported CNBC with <target>reference</target> to circles.",
+    "target_word": "reference",
+    "target_id": "bn:00000939n",
+    "lemma": "reference",
+    "pos": "n",
+    "defs": [
+      "a remark that calls attention to something or someone",
+      "a short note recognizing a source of information or of a quoted passage",
+      "an indicator that orients you generally",
+      "a book to which you can refer for authoritative facts",
+      "a formal recommendation by a former employer to a potential future employer describing the person's qualifications and dependability",
+      "the most direct or specific meaning of a word or expression; the class of objects that an expression refers to",
+      "the act of referring or consulting",
+      "a publication (or a passage from a publication) that is referred to",
+      "(computer science) the code that identifies where a piece of information is stored",
+      "the relation between a word or phrase and the object or idea it refers to"
+    ],
+    "gold": "A short note recognizing a source of information or of a quoted passage"
+  },
+  {
+    "sentence": "In this polder, within a short period of time, the Oostvaardersplassen have developed into a wonderful natural <target>site</target> with an unprecedented wealth of bird life, although initially it was intended as an industrial area.",
+    "target_word": "site",
+    "target_id": "bn:00049847n",
+    "lemma": "site",
+    "pos": "n",
+    "defs": [
+      "the piece of land on which something is located (or is to be located)",
+      "physical position in relation to the surroundings",
+      "a computer connected to the internet that maintains a series of web pages on the World Wide Web"
+    ],
+    "gold": "The piece of land on which something is located (or is to be located)"
+  },
+  {
+    "sentence": "State <target>government</target> is more typically split along Republican-governor/ Democratic-legislature lines than the reverse.",
+    "target_word": "government",
+    "target_id": "bn:00007299n",
+    "lemma": "government",
+    "pos": "n",
+    "defs": [
+      "the organization that is the governing authority of a political unit",
+      "the act of governing; exercising authority",
+      "(government) the system or form by which a community or other political unit is governed",
+      "the study of government of states and other political units"
+    ],
+    "gold": "The organization that is the governing authority of a political unit"
+  },
+  {
+    "sentence": "But there is not one <target>shred</target> of evidence that, other things being equal, salary differentials result in educational differentials.",
+    "target_word": "shred",
+    "target_id": "bn:00047426n",
+    "lemma": "shred",
+    "pos": "n",
+    "defs": [
+      "a tiny or scarcely detectable amount",
+      "a small piece of cloth or paper"
+    ],
+    "gold": "A tiny or scarcely detectable amount"
+  },
+  {
+    "sentence": "I decided to brave the <target>storm</target>.",
+    "target_word": "storm",
+    "target_id": "bn:00074459n",
+    "lemma": "storm",
+    "pos": "n",
+    "defs": [
+      "a violent weather condition with winds 64-72 knots (11 on the Beaufort scale) and precipitation and thunder and lightning",
+      "a violent commotion or disturbance",
+      "a direct and violent assault on a stronghold"
+    ],
+    "gold": "A violent commotion or disturbance"
+  },
+  {
+    "sentence": "LIVING <target>PLANET</target> INDEX.",
+    "target_word": "PLANET",
+    "target_id": "bn:00052888n",
+    "lemma": "planet",
+    "pos": "n",
+    "defs": [
+      "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction",
+      "a person who follows or serves another",
+      "any celestial body (other than comets or satellites) that revolves around a star"
+    ],
+    "gold": "(astronomy) any of the nine large celestial bodies in the solar system that revolve around the sun and shine by reflected light; Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune, and Pluto in order of their proximity to the sun; viewed from the constellation Hercules, all the planets rotate around the sun in a counterclockwise direction"
+  },
+  {
+    "sentence": "So the driver <target>started</target> to curse at both of them as if they had been in a plot together to ruin his safe-driving record.",
+    "target_word": "started",
+    "target_id": "bn:00083340v",
+    "lemma": "start",
+    "pos": "v",
+    "defs": [
+      "take the first step or steps in carrying out an action",
+      "set in motion, cause to start",
+      "leave",
+      "have a beginning, in a temporal, spatial, or evaluative sense",
+      "bring into being",
+      "get off the ground",
+      "move or jump suddenly, as if in surprise or alarm",
+      "get going or set in motion",
+      "begin or set in motion",
+      "begin work or acting in a certain capacity, office or job",
+      "play in the starting lineup",
+      "have a beginning characterized in some specified way",
+      "begin an event that is implied and limited by the nature or inherent function of the direct object",
+      "bulge outward"
+    ],
+    "gold": "Take the first step or steps in carrying out an action"
+  },
+  {
+    "sentence": "Immigration policy under Nicolas Sarkozy was criticised from various aspects a <target>congestion</target> of police, legal and administrative services subjected to a policy of numbers and the compatibility of that policy with the self-proclaimed status of the country as the country of French human rights.",
+    "target_word": "congestion",
+    "target_id": "bn:00021816n",
+    "lemma": "congestion",
+    "pos": "n",
+    "defs": [
+      "excessive accumulation of blood or other fluid in a body part",
+      "excessive crowding"
+    ],
+    "gold": "Excessive crowding"
+  },
+  {
+    "sentence": "In the <target>treatment</target> of patients with non-small cell lung cancer, Alimta was as effective as the comparators.",
+    "target_word": "treatment",
+    "target_id": "bn:00047235n",
+    "lemma": "treatment",
+    "pos": "n",
+    "defs": [
+      "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "the management of someone or something",
+      "a manner of dealing with something artistically",
+      "an extended communication (often interactive) dealing with some particular topic"
+    ],
+    "gold": "Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)"
+  },
+  {
+    "sentence": "But there is also a discordant, modern note in Aslacton, though it can not be heard by the church-goers enjoying the peal of bells this <target>cool</target> autumn evening.",
+    "target_word": "cool",
+    "target_id": "bn:00100441a",
+    "lemma": "cool",
+    "pos": "a",
+    "defs": [
+      "neither warm nor very cold; giving relief from heat",
+      "marked by calm self-control (especially in trying circumstances); unemotional",
+      "(color) inducing the impression of coolness; used especially of greens and blues and violets",
+      "psychologically cool and unenthusiastic; unfriendly or unresponsive or showing dislike",
+      "(used of a number or sum) without exaggeration or qualification",
+      "fashionable and attractive at the time; often skilled or socially adept"
+    ],
+    "gold": "Neither warm nor very cold; giving relief from heat"
+  },
+  {
+    "sentence": "The researchers collected the <target>bacteria</target> known as GFAJ-1 and exposed it to increasing concentrations of arsenic, which it was able to adapt to and grow.",
+    "target_word": "bacteria",
+    "target_id": "bn:00007854n",
+    "lemma": "bacterium",
+    "pos": "n",
+    "defs": [
+      "(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants"
+    ],
+    "gold": "(microbiology) single-celled or noncellular spherical or spiral or rod-shaped organisms lacking chlorophyll that reproduce by fission; important as pathogens and for biochemical properties; taxonomy is difficult; often considered to be plants"
+  },
+  {
+    "sentence": "Xavi Hernandez, the player of Barcelona, has 106 <target>matches</target>.",
+    "target_word": "matches",
+    "target_id": "bn:00053772n",
+    "lemma": "match",
+    "pos": "n",
+    "defs": [
+      "lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction",
+      "a formal contest in which two or more persons or teams compete",
+      "a burning piece of wood or cardboard",
+      "an exact duplicate",
+      "the score needed to win a match",
+      "a person regarded as a good matrimonial prospect",
+      "a person who is of equal standing with another in a group",
+      "a pair of people who live together",
+      "something that resembles or harmonizes with"
+    ],
+    "gold": "A formal contest in which two or more persons or teams compete"
+  },
+  {
+    "sentence": "For months the Johns Hopkins researchers, using gene probes, experimentally crawled down the length of chromosome 17, looking for the smallest common bit of genetic material lost in all tumor <target>cells</target>.",
+    "target_word": "cells",
+    "target_id": "bn:00017027n",
+    "lemma": "cell",
+    "pos": "n",
+    "defs": [
+      "any small compartment",
+      "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "a device that delivers an electric current as the result of a chemical reaction",
+      "a small unit serving as part of or as the nucleus of a larger political movement",
+      "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+      "small room in which a monk or nun lives",
+      "a room where a prisoner is kept"
+    ],
+    "gold": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+  },
+  {
+    "sentence": "The institutions thereby want to wiggle themselves free from the restrictions going hand-in-hand with the acceptance of the money, such as the <target>limits</target> on manager bonuses and the paying of high charges.",
+    "target_word": "limits",
+    "target_id": "bn:00051250n",
+    "lemma": "limit",
+    "pos": "n",
+    "defs": [
+      "the greatest possible degree of something",
+      "final or latest limiting point",
+      "as far as something can go",
+      "the boundary of a specific area",
+      "the mathematical value toward which a function goes as the independent variable approaches infinity",
+      "the greatest amount of something that is possible or allowed"
+    ],
+    "gold": "The greatest amount of something that is possible or allowed"
+  },
+  {
+    "sentence": "A cross-<target>state</target> econometric investigation, furthermore, reveals that, holding other factors constant, the difference between a state 's major- party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate.",
+    "target_word": "state",
+    "target_id": "bn:00064914n",
+    "lemma": "state",
+    "pos": "n",
+    "defs": [
+      "the territory occupied by one of the constituent administrative districts of a nation",
+      "the way something is with respect to its main attributes",
+      "the group of people comprising the government of a sovereign state",
+      "a politically organized body of people under a single government",
+      "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)",
+      "a state of depression or agitation",
+      "the territory occupied by a nation",
+      "the federal department in the United States that sets and maintains foreign policies"
+    ],
+    "gold": "The territory occupied by one of the constituent administrative districts of a nation"
+  },
+  {
+    "sentence": "If she <target>runs around</target> with other men, and if you hate her as you say, why not just divorce her``?",
+    "target_word": "runs around",
+    "target_id": "bn:00084708v",
+    "lemma": "run_around",
+    "pos": "v",
+    "defs": [
+      "play boisterously"
+    ],
+    "gold": "Play boisterously"
+  },
+  {
+    "sentence": "By then, the stranger was thanking Haney profusely and had one arm around his shoulders as if he were an old <target>friend</target>.",
+    "target_word": "friend",
+    "target_id": "bn:00036538n",
+    "lemma": "friend",
+    "pos": "n",
+    "defs": [
+      "a person you know well and regard with affection and trust",
+      "an associate who provides cooperation or assistance",
+      "a person with whom you are acquainted",
+      "a person who backs a politician or a team etc.",
+      "a member of the Religious Society of Friends founded by George Fox (the Friends have never called themselves Quakers)"
+    ],
+    "gold": "A person you know well and regard with affection and trust"
+  },
+  {
+    "sentence": "It was the confirming evidence we all needed that <target>gene</target> losses were critical to the development of a common tumor,`` says Ray White at Howard Hughes Medical Institute in Salt Lake City.",
+    "target_word": "gene",
+    "target_id": "bn:00019262n",
+    "lemma": "gene",
+    "pos": "n",
+    "defs": [
+      "(genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity"
+    ],
+    "gold": "(genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity"
+  },
+  {
+    "sentence": "If he is competent and conscientious, he serves us <target>well</target>.",
+    "target_word": "well",
+    "target_id": "bn:00115530r",
+    "lemma": "well",
+    "pos": "r",
+    "defs": [
+      "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')",
+      "thoroughly or completely; fully; often used as a combining form; ; ; ; ; ,",
+      "indicating high probability; in all likelihood",
+      "(used for emphasis or as an intensifier) entirely or fully",
+      "to a suitable or appropriate extent or degree",
+      "favorably; with approval",
+      "to a great extent or degree",
+      "with great or especially intimate knowledge",
+      "with prudence or propriety",
+      "with skill or in a pleasing manner",
+      "in a manner affording benefit or advantage",
+      "in financial comfort",
+      "without unusual distress or resentment; with good humor"
+    ],
+    "gold": "(often used as a combining form) in a good or proper or satisfactory manner or to a high standard (`good' is a nonstandard dialectal variant for `well')"
+  },
+  {
+    "sentence": "Support for democracy in Latin America continues to edge up, as does <target>backing</target> for private enterprise.",
+    "target_word": "backing",
+    "target_id": "bn:00007797n",
+    "lemma": "backing",
+    "pos": "n",
+    "defs": [
+      "the act of providing approval and support",
+      "something forming a back that is added for strengthening",
+      "financial resources provided to make some project possible"
+    ],
+    "gold": "The act of providing approval and support"
+  },
+  {
+    "sentence": "The guy <target>sulked</target> over his drink, obviously upset by Haney 's lack of appreciation.",
+    "target_word": "sulked",
+    "target_id": "bn:00084135v",
+    "lemma": "sulk",
+    "pos": "v",
+    "defs": [
+      "be in a huff and display one's displeasure"
+    ],
+    "gold": "Be in a huff and display one's displeasure"
+  },
+  {
+    "sentence": "Mr. Quinlan, 30 years old, knew he carried a damaged gene, having lost an eye to the rare <target>tumor</target> when he was only two months old-- after his mother had suffered the same fate when she was a baby.",
+    "target_word": "tumor",
+    "target_id": "bn:00057267n",
+    "lemma": "tumor",
+    "pos": "n",
+    "defs": [
+      "an abnormal new mass of tissue that serves no purpose"
+    ],
+    "gold": "An abnormal new mass of tissue that serves no purpose"
+  },
+  {
+    "sentence": "In recent months, researchers have come to believe the two types of cancer genes work in concert: An oncogene may turn proliferating <target>cells</target> malignant only after the tumor-suppressor gene has been damaged.",
+    "target_word": "cells",
+    "target_id": "bn:00017027n",
+    "lemma": "cell",
+    "pos": "n",
+    "defs": [
+      "any small compartment",
+      "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "a device that delivers an electric current as the result of a chemical reaction",
+      "a small unit serving as part of or as the nucleus of a larger political movement",
+      "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+      "small room in which a monk or nun lives",
+      "a room where a prisoner is kept"
+    ],
+    "gold": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+  },
+  {
+    "sentence": "Second, it explains why voters hold Congress in disdain but generally love their own congressional <target>representatives</target>: Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency.",
+    "target_word": "representatives",
+    "target_id": "bn:00021852n",
+    "lemma": "representative",
+    "pos": "n",
+    "defs": [
+      "a person who represents others",
+      "an advocate who represents someone else's policy or purpose",
+      "a member of the United States House of Representatives",
+      "an item of information that is typical of a class or group"
+    ],
+    "gold": "A member of the United States House of Representatives"
+  },
+  {
+    "sentence": "A person who is born with one defective copy of a suppressor gene, or in whom one copy is damaged early in life, is especially prone to cancer because he need <target>only</target> lose the other copy for a cancer to develop.",
+    "target_word": "only",
+    "target_id": "bn:00114626r",
+    "lemma": "only",
+    "pos": "r",
+    "defs": [
+      "and nothing more",
+      "without any others being included or involved",
+      "with nevertheless the final result",
+      "in the final outcome",
+      "except that",
+      "never except when",
+      "as recently as"
+    ],
+    "gold": "And nothing more"
+  },
+  {
+    "sentence": "Prior to 1932, the pattern was nearly the <target>opposite</target>.",
+    "target_word": "opposite",
+    "target_id": "bn:00022257n",
+    "lemma": "opposite",
+    "pos": "n",
+    "defs": [
+      "a word that expresses a meaning opposed to the meaning of another word, in which case the two words are antonyms of each other",
+      "a relation of direct opposition",
+      "a contestant that you are matched against",
+      "something inverted in sequence or character or effect"
+    ],
+    "gold": "A relation of direct opposition"
+  },
+  {
+    "sentence": "Alimta is used together with cisplatin( another anticancer medicine) when the cancer is unresectable( cannot be removed by <target>surgery</target> alone) and malignant( has spread, or is likely to spread easily, to other parts of the body), in patients who have not received chemotherapy( medicines for cancer) before advanced or metastatic non-small cell lung cancer that is not affecting the squamous cells.",
+    "target_word": "surgery",
+    "target_id": "bn:00059129n",
+    "lemma": "surgery",
+    "pos": "n",
+    "defs": [
+      "the branch of medical science that treats disease or injury by operative procedures",
+      "a room where a doctor or dentist can be consulted",
+      "a room in a hospital equipped for the performance of surgical operations",
+      "a medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body"
+    ],
+    "gold": "A medical procedure involving an incision with instruments; performed to repair damage or arrest disease in a living body"
+  },
+  {
+    "sentence": "You should have <target>told</target> me about her before``.",
+    "target_word": "told",
+    "target_id": "bn:00094862v",
+    "lemma": "tell",
+    "pos": "v",
+    "defs": [
+      "express in words",
+      "let something be known",
+      "narrate or give a detailed account of",
+      "give instructions to or direct somebody to do something with authority",
+      "discern or comprehend",
+      "inform positively and with certainty and confidence",
+      "give evidence",
+      "mark as different"
+    ],
+    "gold": "Let something be known"
+  },
+  {
+    "sentence": "<target>Figure</target> 7 shows average trends in populations of 695 temperate and tropical terrestrial species( of which 562 occur in temperate zones and 150 in tropical zones), indexed to a value of one in 1970.",
+    "target_word": "Figure",
+    "target_id": "bn:00034369n",
+    "lemma": "figure",
+    "pos": "n",
+    "defs": [
+      "a diagram or picture illustrating textual material",
+      "alternative names for the body of a human being",
+      "one of the elements that collectively form a system of numeration",
+      "a model of a bodily form (especially of a person)",
+      "a well-known or notable person",
+      "a combination of points and lines and planes that form a visible palpable shape",
+      "an amount of money expressed numerically",
+      "the impression produced by a person",
+      "the property possessed by a sum or total or indefinite quantity of units or individuals",
+      "language used in a figurative or nonliteral sense",
+      "a unitary percept having structure and coherence that is the object of attention and that stands out against a ground",
+      "a decorative or artistic work",
+      "a predetermined set of movements in dancing or skating"
+    ],
+    "gold": "A diagram or picture illustrating textual material"
+  },
+  {
+    "sentence": "Schools that are structured in this way produce <target>students</target> with higher morale and superior academic performance.",
+    "target_word": "students",
+    "target_id": "bn:00029806n",
+    "lemma": "student",
+    "pos": "n",
+    "defs": [
+      "a learner who is enrolled in an educational institution",
+      "a learned person (especially in the humanities); someone who by long study has gained mastery in one or more disciplines"
+    ],
+    "gold": "A learner who is enrolled in an educational institution"
+  },
+  {
+    "sentence": "On Costa Rican side, and close to Michael Umana, are the left-lateral Junior Diaz, with 48 matches and the <target>striker</target> Bryan Ruiz, with 45.",
+    "target_word": "striker",
+    "target_id": "bn:00074678n",
+    "lemma": "striker",
+    "pos": "n",
+    "defs": [
+      "a forward on a soccer team",
+      "someone receiving intensive training for a naval technical rating",
+      "an employee on strike against an employer",
+      "someone who hits",
+      "the part of a mechanical device that strikes something"
+    ],
+    "gold": "A forward on a soccer team"
+  },
+  {
+    "sentence": "With membership of the Church of England steadily dwindling, strong-willed vicars are pressing <target>equally</target> strong-willed and often non-religious ringers to attend services.",
+    "target_word": "equally",
+    "target_id": "bn:00114354r",
+    "lemma": "equally",
+    "pos": "r",
+    "defs": [
+      "to the same degree (often followed by `as')",
+      "in equal amounts or shares; in a balanced or impartial way"
+    ],
+    "gold": "To the same degree (often followed by `as')"
+  },
+  {
+    "sentence": "The provocation of a yellow card in similar <target>circumstances</target> as this one is not a new practice, but rather frequent in the world of football.",
+    "target_word": "circumstances",
+    "target_id": "bn:00019219n",
+    "lemma": "circumstance",
+    "pos": "n",
+    "defs": [
+      "a condition that accompanies or influences some event or activity",
+      "the set of facts or circumstances that surround a situation or event",
+      "information that should be kept in mind when making a decision",
+      "formal ceremony about important occasions"
+    ],
+    "gold": "The set of facts or circumstances that surround a situation or event"
+  },
+  {
+    "sentence": "I was in Stinson Beach when the <target>quake</target> rolled through town.",
+    "target_word": "quake",
+    "target_id": "bn:00029448n",
+    "lemma": "quake",
+    "pos": "n",
+    "defs": [
+      "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity"
+    ],
+    "gold": "Shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity"
+  },
+  {
+    "sentence": "This provides a <target>solution</target> for sustainable agriculture, nature and recreation.",
+    "target_word": "solution",
+    "target_id": "bn:00072761n",
+    "lemma": "solution",
+    "pos": "n",
+    "defs": [
+      "a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution",
+      "a statement that solves a problem or explains how to solve the problem",
+      "a method for solving a problem",
+      "the set of values that give a true statement when substituted into an equation",
+      "the successful action of solving a problem"
+    ],
+    "gold": "A method for solving a problem"
+  },
+  {
+    "sentence": "He <target>theorized</target> that in the eye cancer, an infant inherited a damaged copy of a gene from one parent and a normal copy from the other.",
+    "target_word": "theorized",
+    "target_id": "bn:00085612v",
+    "lemma": "theorize",
+    "pos": "v",
+    "defs": [
+      "to believe especially on uncertain or tentative grounds",
+      "construct a theory about",
+      "form or construct theories"
+    ],
+    "gold": "To believe especially on uncertain or tentative grounds"
+  },
+  {
+    "sentence": "Seeking alternatives to early <target>retirement</target> and redundancy, the project is primarily concerned with the retention, reintegration and retraining of older workers.",
+    "target_word": "retirement",
+    "target_id": "bn:00067456n",
+    "lemma": "retirement",
+    "pos": "n",
+    "defs": [
+      "the state of being retired from one's business or occupation",
+      "withdrawal from your position or occupation",
+      "withdrawal for prayer and study and meditation"
+    ],
+    "gold": "The state of being retired from one's business or occupation"
+  },
+  {
+    "sentence": "First, why ticket splitting has increased and taken the peculiar pattern that it has over the past half century: Prior to the election of Franklin Roosevelt as president and the advent of the New Deal, government occupied a much smaller role in society and the prisoner 's dilemma <target>problem</target> confronting voters in races for Congress was considerably less severe.",
+    "target_word": "problem",
+    "target_id": "bn:00064527n",
+    "lemma": "problem",
+    "pos": "n",
+    "defs": [
+      "a state of difficulty that needs to be resolved",
+      "a question raised for consideration or solution",
+      "a source of difficulty"
+    ],
+    "gold": "A source of difficulty"
+  },
+  {
+    "sentence": "An emerging understanding of the genes is expected to <target>produce</target> an array of new strategies for future cancer treatment and prevention.",
+    "target_word": "produce",
+    "target_id": "bn:00084069v",
+    "lemma": "produce",
+    "pos": "v",
+    "defs": [
+      "bring forth or yield",
+      "create or manufacture a man-made product",
+      "cause to happen, occur or exist",
+      "bring out for display",
+      "cultivate by growing, often involving improvements by means of agricultural techniques",
+      "bring onto the market or release",
+      "come to have or undergo a change of (physical features and attributes)"
+    ],
+    "gold": "Cause to happen, occur or exist"
+  },
+  {
+    "sentence": "It drains a catchment of some 24,240 square kilometres and is the site of the largest single input of freshwater from Britain into the North <target>Sea</target>.",
+    "target_word": "Sea",
+    "target_id": "bn:00069946n",
+    "lemma": "sea",
+    "pos": "n",
+    "defs": [
+      "a division of an ocean or a large body of salt water partially enclosed by land",
+      "anything apparently limitless in quantity or volume",
+      "turbulent water with swells of considerable size"
+    ],
+    "gold": "A division of an ocean or a large body of salt water partially enclosed by land"
+  },
+  {
+    "sentence": "He really did n't <target>expect</target> anything to come of it, and there were a few people",
+    "target_word": "expect",
+    "target_id": "bn:00082665v",
+    "lemma": "expect",
+    "pos": "v",
+    "defs": [
+      "regard something as probable or likely",
+      "consider obligatory; request and expect",
+      "look forward to the probable occurrence of",
+      "consider reasonable or due",
+      "look forward to the birth of a child",
+      "be pregnant with"
+    ],
+    "gold": "Regard something as probable or likely"
+  },
+  {
+    "sentence": "Deutsche Bank pays multi-million pound <target>fine</target> in the USA",
+    "target_word": "fine",
+    "target_id": "bn:00003340n",
+    "lemma": "fine",
+    "pos": "n",
+    "defs": [
+      "money extracted as a penalty"
+    ],
+    "gold": "Money extracted as a penalty"
+  },
+  {
+    "sentence": "An estimated 45 000 vertebrate <target>species</target> live in or around",
+    "target_word": "species",
+    "target_id": "bn:00073210n",
+    "lemma": "species",
+    "pos": "n",
+    "defs": [
+      "(biology) taxonomic group whose members can interbreed",
+      "a specific kind of something",
+      "coins collectively"
+    ],
+    "gold": "(biology) taxonomic group whose members can interbreed"
+  },
+  {
+    "sentence": "Relatively stable trends are evident in the Pacific and in the Arctic/ Atlantic Oceans, in <target>comparison</target> with dramatic declines in the Indian/ Southeast Asian and Southern Oceans.",
+    "target_word": "comparison",
+    "target_id": "bn:00021304n",
+    "lemma": "comparison",
+    "pos": "n",
+    "defs": [
+      "the act of examining resemblances",
+      "relation based on similarities and differences",
+      "qualities that are comparable"
+    ],
+    "gold": "Relation based on similarities and differences"
+  },
+  {
+    "sentence": "Piecewise condition <target>definition</target>.",
+    "target_word": "definition",
+    "target_id": "bn:00025928n",
+    "lemma": "definition",
+    "pos": "n",
+    "defs": [
+      "a concise explanation of the meaning of a word or phrase or symbol",
+      "clarity of outline"
+    ],
+    "gold": "A concise explanation of the meaning of a word or phrase or symbol"
+  },
+  {
+    "sentence": "For the <target>treatment</target> of malignant pleural mesothelioma, Alimta has been studied in one main study in 456 patients who had not received chemotherapy for their disease before.",
+    "target_word": "treatment",
+    "target_id": "bn:00047235n",
+    "lemma": "treatment",
+    "pos": "n",
+    "defs": [
+      "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "the management of someone or something",
+      "a manner of dealing with something artistically",
+      "an extended communication (often interactive) dealing with some particular topic"
+    ],
+    "gold": "Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)"
+  },
+  {
+    "sentence": "1-RRB- Voters can`` buy`` one of two brands when they select their political <target>agents</target>-- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action, and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest.",
+    "target_word": "agents",
+    "target_id": "bn:00001973n",
+    "lemma": "agent",
+    "pos": "n",
+    "defs": [
+      "an active and efficient cause; capable of producing a certain effect",
+      "a representative who acts on behalf of other persons or organizations",
+      "a substance that exerts some force or effect",
+      "a businessman who buys or sells for another in exchange for a commission",
+      "any agent or representative of a federal agency or bureau",
+      "the semantic role of the animate entity that instigates or causes the happening denoted by the verb in the clause"
+    ],
+    "gold": "A representative who acts on behalf of other persons or organizations"
+  },
+  {
+    "sentence": "The mid to outer estuary( Humber Bridge to Spurn Point) changed from a <target>region</target> of low water erosion in the 19th century to one of accretion in the 20th century, nonetheless a net loss of intertidal zone of some 3000 ha has taken place since the mid-19th century.",
+    "target_word": "region",
+    "target_id": "bn:00060767n",
+    "lemma": "region",
+    "pos": "n",
+    "defs": [
+      "the extended spatial location of something",
+      "a part of an animal that has a special function or is supplied by a given artery or nerve",
+      "a large indefinite location on the surface of the Earth",
+      "the approximate amount of something (usually used prepositionally as in `in the region of')",
+      "a knowledge domain that you are interested in or are communicating about"
+    ],
+    "gold": "The extended spatial location of something"
+  },
+  {
+    "sentence": "These beliefs so dominate our educational establishment, our media, our politicians, and even our parents that it seems <target>almost</target> blasphemous to challenge them.",
+    "target_word": "almost",
+    "target_id": "bn:00114079r",
+    "lemma": "almost",
+    "pos": "r",
+    "defs": [
+      "(of actions or states) slightly short of or not quite accomplished; all but"
+    ],
+    "gold": "(of actions or states) slightly short of or not quite accomplished; all but"
+  },
+  {
+    "sentence": "On Thursday, the widely followed trial of Steven J. Hayes, who was convicted of killing three members of a Cheshire, Conn., family, is set to come to an official end with the judge 's imposition of the death sentence voted for by the <target>jury</target>.",
+    "target_word": "jury",
+    "target_id": "bn:00048658n",
+    "lemma": "jury",
+    "pos": "n",
+    "defs": [
+      "a body of citizens sworn to give a true verdict according to the evidence presented in a court of law",
+      "a committee appointed to judge a competition"
+    ],
+    "gold": "A body of citizens sworn to give a true verdict according to the evidence presented in a court of law"
+  },
+  {
+    "sentence": "One writer, <target>signing</target> his letter as`` Red-blooded, balanced male,`` remarked on the`` frequency of women fainting in peals,`` and suggested that they`` settle back into their traditional role of making tea at meetings.``",
+    "target_word": "signing",
+    "target_id": "bn:00093731v",
+    "lemma": "sign",
+    "pos": "v",
+    "defs": [
+      "mark with one's signature; write one's name (on)",
+      "approve and express assent, responsibility, or obligation",
+      "be engaged by a written agreement",
+      "engage by written agreement",
+      "communicate silently and non-verbally by signals or signs",
+      "place signs, as along a road",
+      "communicate in sign language",
+      "make the sign of the cross over someone in order to call on God for protection; consecrate"
+    ],
+    "gold": "Mark with one's signature; write one's name (on)"
+  },
+  {
+    "sentence": "Two years ago, the Rev. Jeremy Hummerstone, vicar of Great Torrington, Devon, got so fed up with ringers who did n't attend service he sacked the entire band; the ringers promptly set up a <target>picket line</target> in protest.",
+    "target_word": "picket line",
+    "target_id": "bn:00062246n",
+    "lemma": "picket_line",
+    "pos": "n",
+    "defs": [
+      "a line of people acting as pickets"
+    ],
+    "gold": "A line of people acting as pickets"
+  },
+  {
+    "sentence": "High-level <target>officials</target> such as Indian environment minister Jairam Ramesh and the Chinese vice minister stepped off planes and raced through the Bella Center 's halls to closed-door meetings and news conferences so they could stake out claims that will be arbitrated over the next week.",
+    "target_word": "officials",
+    "target_id": "bn:00036837n",
+    "lemma": "official",
+    "pos": "n",
+    "defs": [
+      "a worker who holds or is invested with an office",
+      "someone who administers the rules of a game or sport"
+    ],
+    "gold": "A worker who holds or is invested with an office"
+  },
+  {
+    "sentence": "Thus at the recent governors' conference on education, Gov. Bill Clinton of Arkansas announced that`` this country <target>needs</target> a comprehensive child-development policy for children under five.``",
+    "target_word": "needs",
+    "target_id": "bn:00091028v",
+    "lemma": "need",
+    "pos": "v",
+    "defs": [
+      "require as useful, just, or proper",
+      "have need of",
+      "have or feel a need for"
+    ],
+    "gold": "Have need of"
+  },
+  {
+    "sentence": "In <target>addition</target>, a stronger social safety net has helped to shield the poor.",
+    "target_word": "addition",
+    "target_id": "bn:00001294n",
+    "lemma": "addition",
+    "pos": "n",
+    "defs": [
+      "a component that is added to something to improve it",
+      "the act of adding one thing to another",
+      "a quantity that is added",
+      "something added to what you already have",
+      "a suburban area laid out in streets and lots for a future residential area",
+      "the arithmetic operation of summing; calculating the sum of two or more numbers"
+    ],
+    "gold": "A quantity that is added"
+  },
+  {
+    "sentence": "A <target>faint</target> crease appeared between the man 's eyebrows.",
+    "target_word": "faint",
+    "target_id": "bn:00102714a",
+    "lemma": "faint",
+    "pos": "a",
+    "defs": [
+      "deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc",
+      "lacking clarity or distinctness",
+      "lacking strength or vigor",
+      "weak and likely to lose consciousness",
+      "indistinctly understood or felt or perceived",
+      "lacking conviction or boldness or courage"
+    ],
+    "gold": "Deficient in magnitude; barely perceptible; lacking clarity or brightness or loudness etc"
+  },
+  {
+    "sentence": "Already, <target>scientists</target> are developing tests based on the newly identified genes that, for the first time, can predict whether an otherwise healthy individual is likely to get cancer.",
+    "target_word": "scientists",
+    "target_id": "bn:00069680n",
+    "lemma": "scientist",
+    "pos": "n",
+    "defs": [
+      "a person with advanced knowledge of one or more sciences"
+    ],
+    "gold": "A person with advanced knowledge of one or more sciences"
+  },
+  {
+    "sentence": "To reduce side effects, patients should take a corticosteroid and folic acid( a type of vitamin), and receive injections of vitamin B12 during <target>treatment</target> with Alimta.",
+    "target_word": "treatment",
+    "target_id": "bn:00047235n",
+    "lemma": "treatment",
+    "pos": "n",
+    "defs": [
+      "care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)",
+      "the management of someone or something",
+      "a manner of dealing with something artistically",
+      "an extended communication (often interactive) dealing with some particular topic"
+    ],
+    "gold": "Care provided to improve a situation (especially medical procedures or applications that are intended to relieve illness or injury)"
+  },
+  {
+    "sentence": "Let us sum up what we do know about education and about those education reforms that do work and do not work:--`` <target>Parental</target> involvement`` is a bad idea.",
+    "target_word": "Parental",
+    "target_id": "bn:00106486a",
+    "lemma": "parental",
+    "pos": "a",
+    "defs": [
+      "designating the generation of organisms from which hybrid offspring are produced",
+      "relating to or characteristic of or befitting a parent"
+    ],
+    "gold": "Relating to or characteristic of or befitting a parent"
+  },
+  {
+    "sentence": "Alimta was also compared with gemcitabine( another anticancer medicine), both in combination with cisplatin, in a study involving 1,725 patients who had not <target>received</target> chemotherapy for lung cancer in the past.",
+    "target_word": "received",
+    "target_id": "bn:00087863v",
+    "lemma": "receive",
+    "pos": "v",
+    "defs": [
+      "get something; come into possession of",
+      "receive a specified treatment (abstract)",
+      "register (perceptual input)",
+      "go through (mental or physical states or experiences)",
+      "express willingness to have in one's home or environs",
+      "accept as true or valid",
+      "bid welcome to; greet upon arrival",
+      "convert into sounds or pictures",
+      "experience as a reaction",
+      "have or give a reception",
+      "receive as a retribution or punishment",
+      "partake of the Holy Eucharist sacrament",
+      "regard favorably or with disapproval"
+    ],
+    "gold": "Go through (mental or physical states or experiences)"
+  },
+  {
+    "sentence": "The Dedham, Mass., couple knew even before Bonnie became pregnant in 1987 that any child of theirs had a 50% chance of being at risk for retinoblastoma, an eye cancer that occurs <target>about</target> once every 20,000 births.",
+    "target_word": "about",
+    "target_id": "bn:00114073r",
+    "lemma": "about",
+    "pos": "r",
+    "defs": [
+      "(of quantities) imprecise but fairly close to correct",
+      "all around or on all sides",
+      "in the area or vicinity",
+      "used of movement to or among many different places or in no particular direction",
+      "in or to a reversed position or direction",
+      "in rotation or succession",
+      "(of actions or states) slightly short of or not quite accomplished; all but"
+    ],
+    "gold": "(of quantities) imprecise but fairly close to correct"
+  },
+  {
+    "sentence": "Second, it explains why voters hold Congress in disdain but generally love their own congressional representatives: Any <target>individual</target> legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency.",
+    "target_word": "individual",
+    "target_id": "bn:00104971a",
+    "lemma": "individual",
+    "pos": "a",
+    "defs": [
+      "being or characteristic of a single thing or person",
+      "separate and distinct from others of the same kind",
+      "characteristic of or meant for a single person or thing",
+      "concerning one person exclusively"
+    ],
+    "gold": "Being or characteristic of a single thing or person"
+  },
+  {
+    "sentence": "So the <target>driver</target> started to curse at both of them as if they had been in a plot together to ruin his safe-driving record.",
+    "target_word": "driver",
+    "target_id": "bn:00028795n",
+    "lemma": "driver",
+    "pos": "n",
+    "defs": [
+      "the operator of a motor vehicle",
+      "someone who drives animals that pull a vehicle",
+      "a golfer who hits the golf ball with a driver",
+      "(computer science) a program that determines how a computer will communicate with a peripheral device",
+      "a golf club (a wood) with a near vertical face that is used for hitting long shots from the tee"
+    ],
+    "gold": "The operator of a motor vehicle"
+  },
+  {
+    "sentence": "Building on the corner severely damaged, so an old <target>lady</target> and her very old mother are in the guest room.",
+    "target_word": "lady",
+    "target_id": "bn:00049666n",
+    "lemma": "lady",
+    "pos": "n",
+    "defs": [
+      "a polite name for any woman",
+      "a woman of refinement",
+      "a woman of the peerage in Britain"
+    ],
+    "gold": "A polite name for any woman"
+  },
+  {
+    "sentence": "Fragmentation and alteration of natural river flows affects the productivity of wetlands, flood plains, and <target>deltas</target>, disrupts the migration and dispersal of fish, and causes declines in freshwater species.",
+    "target_word": "deltas",
+    "target_id": "bn:00026081n",
+    "lemma": "delta",
+    "pos": "n",
+    "defs": [
+      "a low triangular area of alluvial deposits where a river divides before entering a larger body of water",
+      "an object shaped like an equilateral triangle",
+      "the 4th letter of the Greek alphabet"
+    ],
+    "gold": "A low triangular area of alluvial deposits where a river divides before entering a larger body of water"
+  },
+  {
+    "sentence": "The NCUA chairman, Debbie Matz, welcomed the <target>responsiveness</target> of the two banks.",
+    "target_word": "responsiveness",
+    "target_id": "bn:00067371n",
+    "lemma": "responsiveness",
+    "pos": "n",
+    "defs": [
+      "responsive to stimulation",
+      "the quality of being responsive; reacting quickly; as a quality of people, it involves responding with emotion to people and events"
+    ],
+    "gold": "The quality of being responsive; reacting quickly; as a quality of people, it involves responding with emotion to people and events"
+  },
+  {
+    "sentence": "2-RRB- Congressional representatives <target>have</target> two basic responsibilities while voting in office-- dealing with national issues-LRB- programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large-RRB- and attending to local issues-LRB- constituency service and pork barrel-RRB-.",
+    "target_word": "have",
+    "target_id": "bn:00089240v",
+    "lemma": "have",
+    "pos": "v",
+    "defs": [
+      "have or possess, either in a concrete or an abstract sense",
+      "have as a feature",
+      "go through (mental or physical states or experiences)",
+      "have ownership or possession of",
+      "cause to move; cause to be in a certain position or condition",
+      "serve oneself to, or consume regularly",
+      "have a personal or business relationship with someone",
+      "organize or be responsible for",
+      "have left",
+      "be confronted with",
+      "undergo",
+      "suffer from; be ill with",
+      "cause to do; cause to act in a specified manner",
+      "receive willingly something given or offered",
+      "get something; come into possession of",
+      "undergo (as of injuries and illnesses)",
+      "achieve a point or goal",
+      "cause to be born",
+      "have sex with; archaic use"
+    ],
+    "gold": "Have or possess, either in a concrete or an abstract sense"
+  },
+  {
+    "sentence": "His doubts stemmed from the fact that several years earlier a Princeton University researcher, Arnold Levine, had found in experiments with mice that a gene called p53 could transform normal <target>cells</target> into cancerous ones.",
+    "target_word": "cells",
+    "target_id": "bn:00017027n",
+    "lemma": "cell",
+    "pos": "n",
+    "defs": [
+      "any small compartment",
+      "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals",
+      "a device that delivers an electric current as the result of a chemical reaction",
+      "a small unit serving as part of or as the nucleus of a larger political movement",
+      "a hand-held mobile radiotelephone for use in an area divided into small sections, each with its own short-range transmitter/receiver",
+      "small room in which a monk or nun lives",
+      "a room where a prisoner is kept"
+    ],
+    "gold": "(biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals"
+  },
+  {
+    "sentence": "If these assumptions hold, voters in races for Congress face what in economic theory is called a prisoner 's dilemma and have an incentive, at the <target>margin</target>, to lean Democratic.",
+    "target_word": "margin",
+    "target_id": "bn:00012213n",
+    "lemma": "margin",
+    "pos": "n",
+    "defs": [
+      "the boundary line or the area immediately inside the boundary",
+      "an amount beyond the minimum necessary",
+      "the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities",
+      "(finance) the net sales minus the cost of goods and services sold",
+      "the blank space that surrounds the text on a page",
+      "a permissible difference; allowing some freedom to move within limits"
+    ],
+    "gold": "The boundary line or the area immediately inside the boundary"
+  },
+  {
+    "sentence": "In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a <target>different</target> party 's candidate for the White House than for the House of Representatives.",
+    "target_word": "different",
+    "target_id": "bn:00101348a",
+    "lemma": "different",
+    "pos": "a",
+    "defs": [
+      "unlike in nature or quality or form or degree",
+      "distinctly separate from the first",
+      "differing from all others; not ordinary",
+      "marked by dissimilarity",
+      "distinct or separate"
+    ],
+    "gold": "Distinctly separate from the first"
+  },
+  {
+    "sentence": "I myself took such courses in college, thinking I might <target>end up</target> a schoolteacher.",
+    "target_word": "end up",
+    "target_id": "bn:00087611v",
+    "lemma": "end_up",
+    "pos": "v",
+    "defs": [
+      "finally be or do something"
+    ],
+    "gold": "Finally be or do something"
+  },
+  {
+    "sentence": "But the <target>game</target>, despite being headed for halftime, was not more decidedand the Maccabees tried to remind the Vitorians that not just anybody wins on their court, and with the` hand of Elias' putting the pressure on, they managed to get involved in the game.",
+    "target_word": "game",
+    "target_id": "bn:00037181n",
+    "lemma": "game",
+    "pos": "n",
+    "defs": [
+      "a contest with rules to determine a winner",
+      "a single play of a sport or other contest",
+      "an amusement or pastime",
+      "animal hunted for food or sport",
+      "(tennis) a division of play during which one player serves",
+      "(games) the score at a particular point or the score needed to win",
+      "the flesh of wild animals that is used for food",
+      "a secret scheme to do something (especially something underhand or illegal)",
+      "the game equipment needed in order to play a particular game",
+      "your occupation or line of work",
+      "frivolous or trifling behavior"
+    ],
+    "gold": "A single play of a sport or other contest"
+  },
+  {
+    "sentence": "He had no ready <target>answer</target>, as much from surprise as from the fit of coughing.",
+    "target_word": "answer",
+    "target_id": "bn:00004455n",
+    "lemma": "answer",
+    "pos": "n",
+    "defs": [
+      "a statement (either spoken or written) that is made to reply to a question or request or criticism or accusation",
+      "a statement that solves a problem or explains how to solve the problem",
+      "the speech act of replying to a question",
+      "the principal pleading by the defendant in response to plaintiff's complaint; in criminal law it consists of the defendant's plea of `guilty' or `not guilty' (or nolo contendere); in civil law it must contain denials of all allegations in the plaintiff's complaint that the defendant hopes to controvert and it can contain affirmative defenses or counterclaims",
+      "a nonverbal reaction"
+    ],
+    "gold": "A nonverbal reaction"
+  },
+  {
+    "sentence": "Goldman Sachs, JP Morgan Chase and Morgan Stanley had already repaid their support in <target>June</target>.",
+    "target_word": "June",
+    "target_id": "bn:00048592n",
+    "lemma": "june",
+    "pos": "n",
+    "defs": [
+      "the month following May and preceding July"
+    ],
+    "gold": "The month following May and preceding July"
+  },
+  {
+    "sentence": "The treatment of a vomiting <target>dog</target> should be started with the injection, since vomiting animals might not be able to keep a tablet down( as they might throw the intact tablet up again).",
+    "target_word": "dog",
+    "target_id": "bn:00015267n",
+    "lemma": "dog",
+    "pos": "n",
+    "defs": [
+      "a member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds",
+      "a dull unattractive unpleasant girl or woman",
+      "informal term for a man",
+      "someone who is morally reprehensible",
+      "a smooth-textured sausage of minced beef or pork usually smoked; often served on a bread roll",
+      "a hinged catch that fits into a notch of a ratchet to move a wheel forward or prevent it from moving backward",
+      "metal supports for logs in a fireplace"
+    ],
+    "gold": "A member of the genus Canis (probably descended from the common wolf) that has been domesticated by man since prehistoric times; occurs in many breeds"
+  },
+  {
+    "sentence": "The 10 <target>deals</target> the Iraqi Oil Ministry reached with foreign oil companies suggest that China, Russia and European oil firms are poised to play a major role in refurbishing Iraq 's oil industry, crippled by decades of war and sanctions.",
+    "target_word": "deals",
+    "target_id": "bn:00008568n",
+    "lemma": "deal",
+    "pos": "n",
+    "defs": [
+      "a particular instance of buying or selling",
+      "an agreement between parties (usually arrived at after discussion) fixing obligations of each",
+      "(often followed by `of') a large number or amount or extent",
+      "a plank of softwood (fir or pine board)",
+      "wood that is easy to saw (from conifers such as pine or fir)",
+      "the cards held in a card game by a given player at any given time",
+      "the type of treatment received (especially as the result of an agreement)",
+      "the act of distributing playing cards",
+      "the act of apportioning or distributing something"
+    ],
+    "gold": "An agreement between parties (usually arrived at after discussion) fixing obligations of each"
+  },
+  {
+    "sentence": "It shows the outlines for a possible deal, in which industrial nations would collectively cut their emissions by 2020 by 25 to 45 percent compared with 1990 <target>levels</target>, while major developing countries would reduce theirs during the same period by 15 to 30 percent.",
+    "target_word": "levels",
+    "target_id": "bn:00025966n",
+    "lemma": "level",
+    "pos": "n",
+    "defs": [
+      "a position on a scale of intensity or amount or quality",
+      "a relative position or degree of value in a graded group",
+      "a specific identifiable position in a continuum or series or especially in a process",
+      "height above ground",
+      "indicator that establishes the horizontal when a bubble is centered in a tube of liquid",
+      "a flat surface at right angles to a plumb line",
+      "an abstract place usually conceived as having depth",
+      "a structure consisting of a room or set of rooms at a single position along a vertical scale"
+    ],
+    "gold": "A specific identifiable position in a continuum or series or especially in a process"
+  },
+  {
+    "sentence": "One writer, signing his letter as`` Red-blooded, balanced male,`` remarked on the`` frequency of women fainting in peals,`` and suggested that they`` settle back into their traditional role of making <target>tea</target> at meetings.``",
+    "target_word": "tea",
+    "target_id": "bn:00076264n",
+    "lemma": "tea",
+    "pos": "n",
+    "defs": [
+      "a beverage made by steeping tea leaves in water",
+      "a light midafternoon meal of tea and sandwiches or cakes",
+      "a tropical evergreen shrub or small tree extensively cultivated in e.g. China and Japan and India; source of tea leaves",
+      "a reception or party at which tea is served",
+      "dried leaves of the tea shrub; used to make tea"
+    ],
+    "gold": "A beverage made by steeping tea leaves in water"
+  },
+  {
+    "sentence": "Tropical terrestrial species <target>populations</target> declined by 55 per cent on average from 1970 to 2003; temperate species populations remained fairly stable.",
+    "target_word": "populations",
+    "target_id": "bn:00063596n",
+    "lemma": "population",
+    "pos": "n",
+    "defs": [
+      "the people who inhabit a territory or state",
+      "a group of organisms of the same species inhabiting a given area",
+      "(statistics) the entire aggregation of items from which samples can be drawn",
+      "the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)",
+      "the act of populating (causing to live in a place)"
+    ],
+    "gold": "A group of organisms of the same species inhabiting a given area"
+  },
+  {
+    "sentence": "<target>Fragmentation</target> and alteration of natural river flows affects the productivity of wetlands, flood plains, and deltas, disrupts the migration and dispersal of fish, and causes declines in freshwater species.",
+    "target_word": "Fragmentation",
+    "target_id": "bn:00006939n",
+    "lemma": "fragmentation",
+    "pos": "n",
+    "defs": [
+      "separating something into fine particles",
+      "the disintegration of social norms governing behavior and thought and social relationships",
+      "(computer science) the condition of a file that is broken up and stored in many different locations on a magnetic disk",
+      "the scattering of bomb fragments after the bomb explodes"
+    ],
+    "gold": "Separating something into fine particles"
+  },
+  {
+    "sentence": "The scientists say that since breast cancer often strikes <target>multiple</target> members of certain families, the gene, when inherited in a damaged form, may predispose women to the cancer.",
+    "target_word": "multiple",
+    "target_id": "bn:00107028a",
+    "lemma": "multiple",
+    "pos": "a",
+    "defs": [
+      "having or involving or consisting of more than one part or entity or individual"
+    ],
+    "gold": "Having or involving or consisting of more than one part or entity or individual"
+  },
+  {
+    "sentence": "In addition to increasing the natural value the'' Wet Axis'' contributes towards the solution of the water quality problems, improvement of the <target>landscape</target> and the cultural-historical quality but also pro-vides opportunities for recreational use.",
+    "target_word": "landscape",
+    "target_id": "bn:00049886n",
+    "lemma": "landscape",
+    "pos": "n",
+    "defs": [
+      "an expanse of scenery that can be seen in a single view",
+      "painting depicting an expanse of natural scenery",
+      "a genre of art dealing with the depiction of natural scenery",
+      "an extensive mental viewpoint"
+    ],
+    "gold": "An expanse of scenery that can be seen in a single view"
+  },
+  {
+    "sentence": "Finally, the committee of discipline of the UEFA has sanctioned with two games the trainer of the team, Jose Mourinho, and with different economic <target>amounts</target> the implied players.",
+    "target_word": "amounts",
+    "target_id": "bn:00003601n",
+    "lemma": "amount",
+    "pos": "n",
+    "defs": [
+      "a quantity of money",
+      "the relative magnitude of something with reference to a criterion",
+      "how much there is or how many there are of something that you can quantify",
+      "a quantity obtained by the addition of a group of numbers"
+    ],
+    "gold": "A quantity of money"
+  },
+  {
+    "sentence": "The new money flows into the already top-heavy <target>administrative</target> structure, which busies itself piling more and more paper work on the teachers.",
+    "target_word": "administrative",
+    "target_id": "bn:00096474a",
+    "lemma": "administrative",
+    "pos": "a",
+    "defs": [
+      "of or relating to or responsible for administration"
+    ],
+    "gold": "Of or relating to or responsible for administration"
+  },
+  {
+    "sentence": "The deletion Dr. Vogelstein found was in exactly the same <target>spot</target> as p53.",
+    "target_word": "spot",
+    "target_id": "bn:00062699n",
+    "lemma": "spot",
+    "pos": "n",
+    "defs": [
+      "a point located with respect to surface features of some region",
+      "a short section or illustration (as between radio or tv programs or in a magazine) that is often used for advertising",
+      "an outstanding characteristic",
+      "a blemish made by dirt",
+      "a small contrasting part of something",
+      "a section of an entertainment that is assigned to a specific performer or performance",
+      "a business establishment for entertainment",
+      "a job in an organization",
+      "a slight attack of illness",
+      "a small piece or quantity of something",
+      "a mark on a die or on a playing card (shape depending on the suit)",
+      "a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer",
+      "a playing card with a specified number of pips on it to indicate its value",
+      "an act that brings discredit to the person who does it"
+    ],
+    "gold": "A point located with respect to surface features of some region"
+  },
+  {
+    "sentence": "Amazing what it does to one 's <target>heart rate</target> and one 's short-term memory.",
+    "target_word": "heart rate",
+    "target_id": "bn:00043395n",
+    "lemma": "heart_rate",
+    "pos": "n",
+    "defs": [
+      "the rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health"
+    ],
+    "gold": "The rate at which the heart beats; usually measured to obtain a quick evaluation of a person's health"
+  },
+  {
+    "sentence": "Second, it explains why voters hold Congress in <target>disdain</target> but generally love their own congressional representatives: Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency.",
+    "target_word": "disdain",
+    "target_id": "bn:00022146n",
+    "lemma": "disdain",
+    "pos": "n",
+    "defs": [
+      "lack of respect accompanied by a feeling of intense dislike",
+      "a communication that indicates lack of respect by patronizing the recipient"
+    ],
+    "gold": "Lack of respect accompanied by a feeling of intense dislike"
+  },
+  {
+    "sentence": "Eyes that were clear, but also <target>bright</target> with a strange intensity, a sort of cold fire burning behind them.",
+    "target_word": "bright",
+    "target_id": "bn:00098858a",
+    "lemma": "bright",
+    "pos": "a",
+    "defs": [
+      "emitting or reflecting light readily or in large amounts",
+      "having striking color",
+      "characterized by quickness and ease in learning",
+      "having lots of light either natural or artificial",
+      "made smooth and bright by or as if by rubbing; reflecting a sheen or glow",
+      "splendid",
+      "not made dim or less bright",
+      "clear and sharp and ringing",
+      "characterized by happiness or gladness",
+      "full or promise"
+    ],
+    "gold": "Having striking color"
+  },
+  {
+    "sentence": "This <target>document</target> is a summary of the European Public Assessment Report.",
+    "target_word": "document",
+    "target_id": "bn:00028015n",
+    "lemma": "document",
+    "pos": "n",
+    "defs": [
+      "writing that provides information (especially information of an official nature)",
+      "anything serving as a representation of a person's thinking by means of symbolic marks",
+      "a written account of ownership or obligation",
+      "(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters"
+    ],
+    "gold": "Writing that provides information (especially information of an official nature)"
+  },
+  {
+    "sentence": "<target>Percentage</target> of total annual discharge severely or moderately impacted by dams( Nilsson et al., 2005).",
+    "target_word": "Percentage",
+    "target_id": "bn:00061135n",
+    "lemma": "percentage",
+    "pos": "n",
+    "defs": [
+      "a proportion in relation to a whole (which is usually the amount per hundred)",
+      "assets belonging to or due to or contributed by an individual person or group"
+    ],
+    "gold": "A proportion in relation to a whole (which is usually the amount per hundred)"
+  },
+  {
+    "sentence": "Iraq finally opened its doors after six years of war, and instead of U.S. companies, you have Asians and Europeans leading the way, said Ruba Husari, the editor of Iraq Oil Forum, an online news <target>outlet</target>.",
+    "target_word": "outlet",
+    "target_id": "bn:00054409n",
+    "lemma": "outlet",
+    "pos": "n",
+    "defs": [
+      "a place of business for retailing goods",
+      "receptacle providing a place in a wiring system where current can be taken to run electrical devices",
+      "an opening that permits escape or release",
+      "activity that frees or expresses creative energy or emotion"
+    ],
+    "gold": "A place of business for retailing goods"
+  },
+  {
+    "sentence": "The estuary supports a full range of saline conditions from the open <target>coast</target> to the limit of saline intrusion on the tidal rivers of the Ouse and Trent.",
+    "target_word": "coast",
+    "target_id": "bn:00020164n",
+    "lemma": "coast",
+    "pos": "n",
+    "defs": [
+      "the shore of a sea or ocean",
+      "a slope down which sleds may coast",
+      "the area within view",
+      "the act of moving smoothly along a surface while remaining in contact with it"
+    ],
+    "gold": "The shore of a sea or ocean"
+  },
+  {
+    "sentence": "It is also the kind of libel politicians find useful, since it helps them <target>strike</target> a friendly posture on behalf of an important constituency.",
+    "target_word": "strike",
+    "target_id": "bn:00082873v",
+    "lemma": "strike",
+    "pos": "v",
+    "defs": [
+      "deliver a sharp blow, as with the hand, fist, or weapon",
+      "have an emotional or cognitive impact upon",
+      "hit against; come into sudden contact with",
+      "make a strategic, offensive, assault against an enemy, opponent, or a target",
+      "indicate (a certain time) by striking",
+      "affect or afflict suddenly, usually adversely",
+      "stop work in order to press demands",
+      "touch or seem as if touching visually or audibly",
+      "attain",
+      "produce by manipulating keys or strings of musical instruments, also metaphorically",
+      "cause to form (an electric arc) between electrodes of an arc lamp",
+      "find unexpectedly",
+      "produce by ignition or a blow",
+      "remove by erasing or crossing out or as if by drawing a line",
+      "cause to experience suddenly",
+      "drive something violently into a location",
+      "occupy or take on",
+      "form by stamping, punching, or printing",
+      "smooth with a strickle",
+      "pierce with force",
+      "arrive at after reckoning, deliberating, and weighing"
+    ],
+    "gold": "Occupy or take on"
+  },
+  {
+    "sentence": "The 10 deals the Iraqi Oil Ministry reached with foreign oil companies suggest that China, Russia and European oil firms are poised to play a major role in refurbishing Iraq 's oil industry, crippled by <target>decades</target> of war and sanctions.",
+    "target_word": "decades",
+    "target_id": "bn:00025646n",
+    "lemma": "decade",
+    "pos": "n",
+    "defs": [
+      "a period of 10 years",
+      "the cardinal number that is the sum of nine and one; the base of the decimal system"
+    ],
+    "gold": "A period of 10 years"
+  },
+  {
+    "sentence": "He was enjoying the weekly ritual of washing down his pet grievance with <target>bourbon</target> slightly moistened with water.",
+    "target_word": "bourbon",
+    "target_id": "bn:00012435n",
+    "lemma": "bourbon",
+    "pos": "n",
+    "defs": [
+      "a reactionary politician in the United States (usually from the South)",
+      "whiskey distilled from a mash of corn and malt and rye and aged in charred oak barrels",
+      "a member of the European royal family that ruled France",
+      "a European royal line that ruled in France (from 1589-1793) and Spain and Naples and Sicily"
+    ],
+    "gold": "Whiskey distilled from a mash of corn and malt and rye and aged in charred oak barrels"
+  },
+  {
+    "sentence": "If you need more information about your <target>medical</target> condition or your treatment, read the Package Leaflet( also part of the EPAR) or contact your doctor or pharmacist.",
+    "target_word": "medical",
+    "target_id": "bn:00106555a",
+    "lemma": "medical",
+    "pos": "a",
+    "defs": [
+      "relating to the study or practice of medicine",
+      "requiring or amenable to treatment by medicine especially as opposed to surgery",
+      "of or belonging to Aesculapius or the healing art"
+    ],
+    "gold": "Requiring or amenable to treatment by medicine especially as opposed to surgery"
+  },
+  {
+    "sentence": "It also rose in <target>Mexico</target>, where the economy has recovered after suffering a big drop in output last year.",
+    "target_word": "Mexico",
+    "target_id": "bn:00054693n",
+    "lemma": "mexico",
+    "pos": "n",
+    "defs": [
+      "a republic in southern North America; became independent from Spain in 1810"
+    ],
+    "gold": "A republic in southern North America; became independent from Spain in 1810"
+  },
+  {
+    "sentence": "For only the second time since the polls began, more <target>respondents</target> across Latin America as a whole cite crime, rather than unemployment, as the most important problem facing their country( see chart 5).",
+    "target_word": "respondents",
+    "target_id": "bn:00004456n",
+    "lemma": "respondent",
+    "pos": "n",
+    "defs": [
+      "the codefendant (especially in a divorce proceeding) who is accused of adultery with the corespondent",
+      "someone who responds"
+    ],
+    "gold": "Someone who responds"
+  },
+  {
+    "sentence": "It hopes to <target>speak</target> to students at theological colleges about the joys of bell ringing and will shortly publish a booklet for every vicar in the country entitled,`` The Bells in Your Care.``",
+    "target_word": "speak",
+    "target_id": "bn:00094089v",
+    "lemma": "speak",
+    "pos": "v",
+    "defs": [
+      "express in speech",
+      "exchange thoughts; talk with",
+      "use language",
+      "give a speech to",
+      "make a characteristic or natural sound"
+    ],
+    "gold": "Exchange thoughts; talk with"
+  },
+  {
+    "sentence": "What Gov. Clinton is <target>advocating</target>, in effect, is extending the educational system down to the pre-kindergarten years.",
+    "target_word": "advocating",
+    "target_id": "bn:00082418v",
+    "lemma": "advocate",
+    "pos": "v",
+    "defs": [
+      "push for something",
+      "speak, plead, or argue in favor of"
+    ],
+    "gold": "Push for something"
+  },
+  {
+    "sentence": "Unskilled immigrants work in <target>sectors</target>, which do not attract local labor and the most highly skilled ones in dynamic sectors where training does is not linked to offers of employment.",
+    "target_word": "sectors",
+    "target_id": "bn:00070206n",
+    "lemma": "sector",
+    "pos": "n",
+    "defs": [
+      "a plane figure bounded by two radii and the included arc of a circle",
+      "a social group that forms part of the society or the economy",
+      "a particular aspect of life or activity",
+      "the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes",
+      "a portion of a military position",
+      "measuring instrument consisting of two graduated arms hinged at one end"
+    ],
+    "gold": "A social group that forms part of the society or the economy"
+  },
+  {
+    "sentence": "Far <target>above</target> in the belfry, the huge bronze bells, mounted on wheels, swing madly through a full 360 degrees, starting and ending, surprisingly, in the inverted, or mouth-up position.",
+    "target_word": "above",
+    "target_id": "bn:00114081r",
+    "lemma": "above",
+    "pos": "r",
+    "defs": [
+      "at an earlier place",
+      "in or to a place that is higher"
+    ],
+    "gold": "In or to a place that is higher"
+  },
+  {
+    "sentence": "We see that the peak of the Spanish selection is the goalkeeper Iker Casillas, who last Saturday against England( game lost with 0-1 in London) equaled the <target>record</target> of the ex goalkeeper Andoni Zubizarreta, with 126 international matches.",
+    "target_word": "record",
+    "target_id": "bn:00066577n",
+    "lemma": "record",
+    "pos": "n",
+    "defs": [
+      "anything (such as a document or a phonograph record or a photograph) providing permanent evidence of or information about past events",
+      "sound recording consisting of a disk with a continuous groove; used to reproduce music by rotating while a phonograph needle tracks in the groove",
+      "the number of wins versus losses and ties a team has had",
+      "the sum of recognized accomplishments",
+      "a compilation of the known facts regarding something or someone",
+      "an extreme attainment; the best (or worst) performance ever attested (as in a sport)",
+      "a document that can serve as legal evidence of a transaction",
+      "a list of crimes for which an accused person has been previously convicted"
+    ],
+    "gold": "An extreme attainment; the best (or worst) performance ever attested (as in a sport)"
+  },
+  {
+    "sentence": "Once inside his apartment, he <target>poured</target> a drink with trembling hands and flopped limply in a chair.",
+    "target_word": "poured",
+    "target_id": "bn:00086357v",
+    "lemma": "pour",
+    "pos": "v",
+    "defs": [
+      "cause to run",
+      "move in large numbers",
+      "pour out",
+      "flow in a spurt",
+      "supply in large amounts or quantities",
+      "rain heavily"
+    ],
+    "gold": "Pour out"
+  },
+  {
+    "sentence": "To the extent that the primary <target>duty</target> of personal staff involves local benefit-seeking, this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns.",
+    "target_word": "duty",
+    "target_id": "bn:00029240n",
+    "lemma": "duty",
+    "pos": "n",
+    "defs": [
+      "the social force that binds you to the courses of action demanded by that force; ; - John D.Rockefeller Jr",
+      "work that you are obliged to perform for moral or legal reasons",
+      "a government tax on imports or exports"
+    ],
+    "gold": "Work that you are obliged to perform for moral or legal reasons"
+  },
+  {
+    "sentence": "Was the man <target>drunk</target> or crazy or both?",
+    "target_word": "drunk",
+    "target_id": "bn:00101836a",
+    "lemma": "drunk",
+    "pos": "a",
+    "defs": [
+      "stupefied or excited by a chemical substance (especially alcohol)",
+      "as if under the influence of alcohol"
+    ],
+    "gold": "Stupefied or excited by a chemical substance (especially alcohol)"
+  },
+  {
+    "sentence": "The oldest bell-ringing group in the country, the Ancient Society of College Youths, founded in 1637, <target>remains</target> male-only, a fact that 's particularly galling to women because the group is the sole source of ringers for Britain 's most prestigious churches, St. Paul 's Cathedral and Westminster Abbey.",
+    "target_word": "remains",
+    "target_id": "bn:00092756v",
+    "lemma": "remain",
+    "pos": "v",
+    "defs": [
+      "stay the same; remain in a certain state",
+      "continue in a place, position, or situation",
+      "be left; of persons, questions, problems, results, evidence, etc.",
+      "stay behind"
+    ],
+    "gold": "Stay the same; remain in a certain state"
+  },
+  {
+    "sentence": "But it is unfair to dump on teachers, as distinct from the educational <target>establishment</target>.",
+    "target_word": "establishment",
+    "target_id": "bn:00031641n",
+    "lemma": "establishment",
+    "pos": "n",
+    "defs": [
+      "the act of forming or establishing something",
+      "an organization founded and united for a specific purpose",
+      "the persons (or committees or departments etc.) who make up a body for the purpose of administering something",
+      "a public or private structure (business or governmental or educational) including buildings and equipment for business or residence",
+      "any large organization",
+      "(ecology) the process by which a plant or animal becomes established in a new habitat",
+      "the cognitive process of establishing a valid proof"
+    ],
+    "gold": "An organization founded and united for a specific purpose"
+  },
+  {
+    "sentence": "Case Studies Each national <target>report</target> contains a portfolio of between 25 and 30 initiatives which best present policies and practices to improve the recruitment, training and development of ageing workers in both the work place and the community.",
+    "target_word": "report",
+    "target_id": "bn:00067181n",
+    "lemma": "report",
+    "pos": "n",
+    "defs": [
+      "a written document describing the findings of some individual or group",
+      "the act of informing by verbal report",
+      "a short account of the news",
+      "a sharp explosive sound (especially the sound of a gun firing)",
+      "a written evaluation of a student's scholarship and deportment",
+      "an essay (especially one written as an assignment)",
+      "the general estimation that the public has for a person"
+    ],
+    "gold": "A written document describing the findings of some individual or group"
+  },
+  {
+    "sentence": "Cerenia does not <target>represent</target> a particular risk for people.",
+    "target_word": "represent",
+    "target_id": "bn:00083187v",
+    "lemma": "represent",
+    "pos": "v",
+    "defs": [
+      "take the place of or be parallel or equivalent to",
+      "express indirectly by an image, form, or model; be a symbol",
+      "be representative or typical for",
+      "be a delegate or spokesperson for; represent somebody's interest or be a proxy or substitute for, as of politicians and office holders representing their constituents, or of a tenant representing other tenants in a housing dispute",
+      "serve as a means of expressing something",
+      "be characteristic of",
+      "form or compose",
+      "be the defense counsel for someone in a trial",
+      "create an image or likeness of",
+      "play a role or part",
+      "perform (a play), especially on a stage",
+      "describe or present, usually with respect to a particular quality",
+      "point out or draw attention to in protest or remonstrance",
+      "bring forward and present to the mind",
+      "to establish a mapping (of mathematical elements or sets)"
+    ],
+    "gold": "Form or compose"
+  },
+  {
+    "sentence": "The estuary <target>covers</target> the full salinity range from fully marine at the mouth of the estuary( Spurn Head) to the limit of saline intrusion on the Rivers Ouse and Trent.",
+    "target_word": "covers",
+    "target_id": "bn:00085720v",
+    "lemma": "cover",
+    "pos": "v",
+    "defs": [
+      "provide with a covering or cause to be covered",
+      "form a cover over",
+      "span an interval of distance, space or time",
+      "provide for",
+      "act on verbally or in some form of artistic expression",
+      "include in scope; include as part of something broader; have as one's sphere or territory",
+      "travel across or pass over",
+      "be responsible for reporting the details of, as in journalism",
+      "hold within range of an aimed firearm",
+      "to take an action to protect against future problems",
+      "hide from view or knowledge",
+      "protect or defend (a position in a game)",
+      "maintain a check on; especially by patrolling",
+      "protect by insurance",
+      "make up for shortcomings or a feeling of inferiority by exaggerating good qualities",
+      "invest with a large or excessive amount of something",
+      "help out by taking someone's place and temporarily assuming his responsibilities",
+      "be sufficient to meet, defray, or offset the charge or cost of",
+      "spread over a surface to conceal or protect",
+      "cover as if with a shroud",
+      "copulate with a female, used especially of horses",
+      "put something on top of something else",
+      "play a higher card than the one previously played",
+      "be responsible for guarding an opponent in a game",
+      "sit on (eggs)",
+      "clothe, as if for protection from the elements"
+    ],
+    "gold": "Span an interval of distance, space or time"
+  },
+  {
+    "sentence": "Although it was initially MathML oriented it can <target>now</target> be used by everyone with little mathematical knowledge.",
+    "target_word": "now",
+    "target_id": "bn:00114424r",
+    "lemma": "now",
+    "pos": "r",
+    "defs": [
+      "in the historical present; at this point in the narration of a series of past events",
+      "in these times; - Nancy Mitford",
+      "used to preface a command or reproof or request",
+      "at the present moment",
+      "without delay or hesitation; with no time intervening",
+      "(prefatory or transitional) indicates a change of subject or activity",
+      "in the immediate past"
+    ],
+    "gold": "At the present moment"
+  },
+  {
+    "sentence": "The defense lawyers say they will also challenge the constitutionality of the death penalty and argue that the judge wrongly removed a juror who had been critical of prosecutors and that he improperly added pressure for a <target>verdict</target> by his unusual decision to direct the jury to deliberate over a weekend.",
+    "target_word": "verdict",
+    "target_id": "bn:00034552n",
+    "lemma": "verdict",
+    "pos": "n",
+    "defs": [
+      "(law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment"
+    ],
+    "gold": "(law) the findings of a jury on issues of fact submitted to it for decision; can be used in formulating a judgment"
+  },
+  {
+    "sentence": "He <target>muttered</target> something about how terrible it was, and walked with deliberate slowness to the elevator.",
+    "target_word": "muttered",
+    "target_id": "bn:00090707v",
+    "lemma": "mutter",
+    "pos": "v",
+    "defs": [
+      "talk indistinctly; usually in a low voice",
+      "make complaining remarks or noises under one's breath"
+    ],
+    "gold": "Talk indistinctly; usually in a low voice"
+  },
+  {
+    "sentence": "They may not be among the`` best and brightest`` of their generation-- there are very <target>few</target> such people, by definition.",
+    "target_word": "few",
+    "target_id": "bn:00102920a",
+    "lemma": "few",
+    "pos": "a",
+    "defs": [
+      "a quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number"
+    ],
+    "gold": "A quantifier that can be used with count nouns and is often preceded by `a'; a small but indefinite number"
+  },
+  {
+    "sentence": "The current battle is as much about saving individual economies as saving the planet, with China and United States feuding over their respective <target>obligations</target> while poorer nations insist that the world 's two dozen most influential countries are ignoring the scientific imperative to take bolder action.",
+    "target_word": "obligations",
+    "target_id": "bn:00029239n",
+    "lemma": "obligation",
+    "pos": "n",
+    "defs": [
+      "the social force that binds you to the courses of action demanded by that force; ; - John D.Rockefeller Jr",
+      "the state of being obligated to do or pay something",
+      "a personal relation in which one is indebted for a service or favor",
+      "a written promise to repay a debt",
+      "a legal agreement specifying a payment or action and the penalty for failure to comply"
+    ],
+    "gold": "The social force that binds you to the courses of action demanded by that force"
+  },
+  {
+    "sentence": "The present <target>cabinet</target> has also made more funds available in order to be able to complete the National Ecological Network by 2018.",
+    "target_word": "cabinet",
+    "target_id": "bn:00014446n",
+    "lemma": "cabinet",
+    "pos": "n",
+    "defs": [
+      "a piece of furniture resembling a cupboard with doors and shelves and drawers; for storage or display",
+      "persons appointed by a head of state to head executive departments of government and act as official advisers",
+      "a storage compartment for clothes and valuables; usually it has a lock",
+      "housing for electronic instruments, as radio or television"
+    ],
+    "gold": "Persons appointed by a head of state to head executive departments of government and act as official advisers"
+  },
+  {
+    "sentence": "Since <target>local</target> benefit-seeking matters more and national policy making matters less in the lower chamber of Congress, this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts.",
+    "target_word": "local",
+    "target_id": "bn:00106108a",
+    "lemma": "local",
+    "pos": "a",
+    "defs": [
+      "relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area",
+      "of or belonging to or characteristic of a particular locality or neighborhood",
+      "affecting only a restricted part or area of the body"
+    ],
+    "gold": "Relating to or applicable to or concerned with the administration of a city or town or district rather than a larger area"
+  },
+  {
+    "sentence": "If it is, it will be treated as an operator, if it is not, it will be treated as a <target>user</target> function.",
+    "target_word": "user",
+    "target_id": "bn:00079373n",
+    "lemma": "user",
+    "pos": "n",
+    "defs": [
+      "a person who makes use of a thing; someone who uses or employs something",
+      "a person who uses something or someone selfishly or unethically",
+      "a person who takes drugs"
+    ],
+    "gold": "A person who makes use of a thing; someone who uses or employs something"
+  },
+  {
+    "sentence": "Case Studies Each national report contains a portfolio of between 25 and 30 initiatives which best present policies and practices to improve the recruitment, training and development of <target>ageing</target> workers in both the work place and the community.",
+    "target_word": "ageing",
+    "target_id": "bn:00082449v",
+    "lemma": "age",
+    "pos": "v",
+    "defs": [
+      "begin to seem older; get older",
+      "grow old or older",
+      "make older"
+    ],
+    "gold": "Begin to seem older; get older"
+  },
+  {
+    "sentence": "The U.N.-sponsored climate conference-- characterized so far by unruly posturing and mutual recriminations-- gained renewed focus Friday with the release of a <target>document</target> outlining ambitious greenhouse-gas reductions over the next 40 years, with industrialized nations shouldering most of the burden in the near term.",
+    "target_word": "document",
+    "target_id": "bn:00028015n",
+    "lemma": "document",
+    "pos": "n",
+    "defs": [
+      "writing that provides information (especially information of an official nature)",
+      "anything serving as a representation of a person's thinking by means of symbolic marks",
+      "a written account of ownership or obligation",
+      "(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters"
+    ],
+    "gold": "Writing that provides information (especially information of an official nature)"
+  },
+  {
+    "sentence": "The quivers move through my house every few minutes at unpredictable intervals, and the mouse that 's been living in my kitchen has <target>taken</target> refuge under my desk.",
+    "target_word": "taken",
+    "target_id": "bn:00094738v",
+    "lemma": "take",
+    "pos": "v",
+    "defs": [
+      "carry out",
+      "require (time or space)",
+      "take somebody somewhere",
+      "get into one's hands, take physically",
+      "take on a certain form, attribute, or aspect",
+      "interpret something in a certain way; convey a particular meaning or impression",
+      "take something or somebody with oneself somewhere",
+      "take into one's possession",
+      "travel or go by means of a certain kind of transportation, or a certain route",
+      "pick out, select, or choose from a number of alternatives",
+      "receive willingly something given or offered",
+      "assume, as of positions or roles",
+      "take into consideration for exemplifying purposes",
+      "require as useful, just, or proper",
+      "experience or feel or submit to",
+      "make a film or photograph of something",
+      "remove something concrete, as by lifting, pushing, or taking off, or remove something abstract",
+      "serve oneself to, or consume regularly",
+      "accept or undergo, often unwillingly",
+      "make use of or accept for some purpose",
+      "take by force",
+      "occupy or take on",
+      "admit into a group or community",
+      "ascertain or determine by measuring, computing or take a reading from a dial",
+      "be a student of a certain subject",
+      "take as an undesirable consequence of some event or state of affairs",
+      "head into a specified direction",
+      "point or cause to go (blows, weapons, or objects such as photographic equipment) towards",
+      "be seized or affected in a specified way",
+      "have with oneself; have on one's person",
+      "engage for service under a term of contract",
+      "receive or obtain regularly",
+      "buy, select",
+      "to get into a position of having, e.g., safety, comfort",
+      "have sex with; archaic use",
+      "lay claim to; as of an idea",
+      "be designed to hold or take",
+      "be capable of holding or containing",
+      "develop a habit",
+      "proceed along in a vehicle",
+      "obtain by winning",
+      "be stricken by an illness, fall victim to an illness"
+    ],
+    "gold": "To get into a position of having, e.g., safety, comfort"
+  },
+  {
+    "sentence": "His was one of two research teams in 1984 to report dual chromosome losses for a rare childhood cancer of the kidney <target>called</target> Wilm 's tumor.",
+    "target_word": "called",
+    "target_id": "bn:00084385v",
+    "lemma": "call",
+    "pos": "v",
+    "defs": [
+      "assign a specified (usually proper) proper name to",
+      "ascribe a quality to or give a name of a common noun that reflects a quality",
+      "get or try to get into communication (with someone) by telephone",
+      "utter a sudden loud cry",
+      "order, request, or command to come",
+      "pay a brief visit",
+      "call a meeting; invite or command to meet",
+      "read aloud to check for omissions or absentees",
+      "send a message or attempt to reach someone by radio, phone, etc.; make a signal to in order to transmit a message",
+      "utter a characteristic note or cry",
+      "stop or postpone because of adverse conditions, such as bad weather",
+      "greet, as with a prescribed form, title, or name",
+      "make a stop in a harbour",
+      "demand payment of (a loan)",
+      "make a demand, as for a card or a suit or a show of hands",
+      "give the calls (to the dancers) for a square dance",
+      "indicate a decision in regard to",
+      "make a prediction about; tell in advance",
+      "require the presentation of for redemption before maturation",
+      "challenge (somebody) to make good on a statement; charge with or censure for an offense",
+      "declare in the capacity of an umpire or referee",
+      "lure by imitating the characteristic call of an animal",
+      "order or request or give a command for",
+      "order, summon, or request for a specific duty or activity, work, role",
+      "utter in a loud voice or announce",
+      "challenge the sincerity or truthfulness of",
+      "consider or regard as being",
+      "rouse somebody from sleep with a call"
+    ],
+    "gold": "Assign a specified (usually proper) proper name to"
+  },
+  {
+    "sentence": "Schools that are structured in this way produce students with higher morale and <target>superior</target> academic performance.",
+    "target_word": "superior",
+    "target_id": "bn:00111465a",
+    "lemma": "superior",
+    "pos": "a",
+    "defs": [
+      "of high or superior quality or performance",
+      "of or characteristic of high rank or importance",
+      "(sometimes followed by `to') not subject to or influenced by",
+      "written or printed above and to one side of another character",
+      "having an orbit farther from the sun than the Earth's orbit",
+      "having a higher rank",
+      "(often followed by `to') above being affected or influenced by"
+    ],
+    "gold": "Of high or superior quality or performance"
+  },
+  {
+    "sentence": "There is neither mystery nor paradox in the fact that as educational expenditures( in real terms) have increased sharply in the past quarter-of-a-century-- we now <target>spend</target> more per pupil than any other country in the world-- educational performance has declined.",
+    "target_word": "spend",
+    "target_id": "bn:00087372v",
+    "lemma": "spend",
+    "pos": "v",
+    "defs": [
+      "pass time in a specific way",
+      "pay out",
+      "spend completely"
+    ],
+    "gold": "Pay out"
+  },
+  {
+    "sentence": "Although the border between the wittiness and the law <target>fraud</target> is diffuse, in this occasion I believe it was a clear case of wittiness.",
+    "target_word": "fraud",
+    "target_id": "bn:00036292n",
+    "lemma": "fraud",
+    "pos": "n",
+    "defs": [
+      "intentional deception resulting in injury to another person",
+      "a person who makes deceitful pretenses",
+      "something intended to deceive; deliberate trickery intended to gain an advantage"
+    ],
+    "gold": "Intentional deception resulting in injury to another person"
+  },
+  {
+    "sentence": "Ramsar <target>criterion</target> 3.",
+    "target_word": "criterion",
+    "target_id": "bn:00023853n",
+    "lemma": "criterion",
+    "pos": "n",
+    "defs": [
+      "a basis for comparison; a reference point against which other things can be evaluated",
+      "the ideal in terms of which something can be judged"
+    ],
+    "gold": "A basis for comparison; a reference point against which other things can be evaluated"
+  },
+  {
+    "sentence": "There would then be sufficient food throughout the <target>year</target>, which would increase the survival rates of the present populations and the viability of these populations.",
+    "target_word": "year",
+    "target_id": "bn:00078738n",
+    "lemma": "year",
+    "pos": "n",
+    "defs": [
+      "a period of time containing 365 (or 366) days",
+      "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+      "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+      "a body of students who graduate together"
+    ],
+    "gold": "A period of time containing 365 (or 366) days"
+  },
+  {
+    "sentence": "Study after study-- the most recent from the Brookings Institution-- tells us that the best schools are those that are free of <target>outside</target> interference and are governed by a powerful head.",
+    "target_word": "outside",
+    "target_id": "bn:00108060a",
+    "lemma": "outside",
+    "pos": "a",
+    "defs": [
+      "relating to or being on or near the outer side or limit",
+      "coming from the outside",
+      "originating or belonging beyond some bounds:",
+      "located, suited for, or taking place in the open air",
+      "functioning outside the boundaries or precincts of an organized unit",
+      "leading to or from the outside",
+      "from or between other countries",
+      "very unlikely",
+      "on or toward an outer edge",
+      "(of a baseball pitch) on the far side of home plate from the batter"
+    ],
+    "gold": "Originating or belonging beyond some bounds:\"the outside world\""
+  },
+  {
+    "sentence": "The <target>discovery</target> of a strange bacteria that can use arsenic as one of its nutrients widens the scope for finding new forms of life on Earth and possibly beyond.",
+    "target_word": "discovery",
+    "target_id": "bn:00027530n",
+    "lemma": "discovery",
+    "pos": "n",
+    "defs": [
+      "the act of discovering something",
+      "something that is discovered",
+      "a productive insight",
+      "(law) compulsory pretrial disclosure of documents relevant to a case; enables one side in a litigation to elicit information from the other side concerning the facts in the case"
+    ],
+    "gold": "Something that is discovered"
+  },
+  {
+    "sentence": "30. Current <target>communications</target>, education and public awareness( CEPA) activities related to or benefiting the site:",
+    "target_word": "communications",
+    "target_id": "bn:00021221n",
+    "lemma": "communication",
+    "pos": "n",
+    "defs": [
+      "the activity of communicating; the activity of conveying information",
+      "something that is communicated by or to or between people or groups",
+      "a connection allowing access between persons or places"
+    ],
+    "gold": "The activity of communicating; the activity of conveying information"
+  },
+  {
+    "sentence": "About two-thirds of the Well 's 3,000 subscribers <target>live</target> in the Bay Area.",
+    "target_word": "live",
+    "target_id": "bn:00087441v",
+    "lemma": "live",
+    "pos": "v",
+    "defs": [
+      "inhabit or live in; be an inhabitant of",
+      "lead a certain kind of life; live in a certain style",
+      "continue to live through hardship or adversity",
+      "support oneself",
+      "have life, be alive",
+      "have firsthand knowledge of states, situations, emotions, or sensations",
+      "pursue a positive and satisfying existence"
+    ],
+    "gold": "Inhabit or live in; be an inhabitant of"
+  },
+  {
+    "sentence": "If you want to <target>use</target> a typical f(x) function it is not necessary to specify it.",
+    "target_word": "use",
+    "target_id": "bn:00082705v",
+    "lemma": "use",
+    "pos": "v",
+    "defs": [
+      "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+      "take or consume (regularly or habitually)",
+      "use up, consume fully",
+      "seek or achieve an end by using to one's advantage",
+      "avail oneself to",
+      "habitually do something (use only in the past tense)"
+    ],
+    "gold": "Put into service; make work or employ for a particular purpose or for its inherent or natural purpose"
+  },
+  {
+    "sentence": "The <target>sand</target> dunes, which cap the shingle spit that forms Spurn Peninsula are dominated by marram grass Ammophila arenaria and patches of dense sea buckthorn Hippophae rhamnoides.",
+    "target_word": "sand",
+    "target_id": "bn:00069126n",
+    "lemma": "sand",
+    "pos": "n",
+    "defs": [
+      "a loose material consisting of grains of rock or coral",
+      "French writer known for works concerning women's rights and independence (1804-1876)",
+      "fortitude and determination"
+    ],
+    "gold": "A loose material consisting of grains of rock or coral"
+  },
+  {
+    "sentence": "Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local <target>benefit-seeking</target> than their Republican colleagues.",
+    "target_word": "benefit-seeking",
+    "target_id": "bn:00009905n",
+    "lemma": "benefit",
+    "pos": "n",
+    "defs": [
+      "financial assistance in time of need",
+      "something that aids or promotes well-being",
+      "a performance to raise money for a charitable cause"
+    ],
+    "gold": "Something that aids or promotes well-being"
+  },
+  {
+    "sentence": "1-RRB- Voters can`` buy`` one of two brands when they select their political agents-- a Republican brand that <target>believes</target> in the minimalist state and in the virtues of private markets over the vices of public action, and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest.",
+    "target_word": "believes",
+    "target_id": "bn:00083374v",
+    "lemma": "believe_in",
+    "pos": "v",
+    "defs": [
+      "have a firm conviction as to the goodness of something"
+    ],
+    "gold": "Have a firm conviction as to the goodness of something"
+  },
+  {
+    "sentence": "It is also the kind of libel politicians <target>find</target> useful, since it helps them strike a friendly posture on behalf of an important constituency.",
+    "target_word": "find",
+    "target_id": "bn:00088095v",
+    "lemma": "find",
+    "pos": "v",
+    "defs": [
+      "come upon, as if by accident; meet with",
+      "discover or determine the existence, presence, or fact of",
+      "come upon after searching; find the location of something that was missed or lost",
+      "establish after a calculation, investigation, experiment, survey, or study",
+      "come to believe on the basis of emotion, intuitions, or indefinite grounds",
+      "perceive or be contemporaneous with",
+      "get something or somebody for a specific purpose",
+      "make a discovery, make a new finding",
+      "make a discovery",
+      "obtain through effort or management",
+      "decide on and make a declaration about",
+      "receive a specified treatment (abstract)",
+      "perceive oneself to be in a certain condition or place",
+      "get or find back; recover the use of",
+      "succeed in reaching; arrive at",
+      "accept and make use of one's personality, abilities, and situation"
+    ],
+    "gold": "Come to believe on the basis of emotion, intuitions, or indefinite grounds"
+  },
+  {
+    "sentence": "It was the first time anyone had showed that the loss of both <target>copies</target> of the same gene could lead to the eruption of a cancer.",
+    "target_word": "copies",
+    "target_id": "bn:00022526n",
+    "lemma": "copy",
+    "pos": "n",
+    "defs": [
+      "a reproduction of a written record (e.g. of a legal or school record)",
+      "a thing made to be similar or identical to another thing",
+      "matter to be printed; exclusive of graphical materials",
+      "material suitable for a journalistic account"
+    ],
+    "gold": "A thing made to be similar or identical to another thing"
+  },
+  {
+    "sentence": "This <target>involves</target> connections between comparable nature areas( ecosystems such as marshes, woodland and heath) or very dissimilar areas, for example transition areas from wet to dry or from oligotrophic to eutrophic.",
+    "target_word": "involves",
+    "target_id": "bn:00089625v",
+    "lemma": "involve",
+    "pos": "v",
+    "defs": [
+      "connect closely and often incriminatingly",
+      "engage as a participant",
+      "have as a necessary feature",
+      "require as useful, just, or proper",
+      "contain as a part",
+      "occupy or engage the interest of",
+      "make complex or intricate or complicated"
+    ],
+    "gold": "Have as a necessary feature"
+  },
+  {
+    "sentence": "The efforts against water depletion need to be intensified and require an a large-scale <target>approach</target> aimed at the entire water catchment, not just at individual sites.",
+    "target_word": "approach",
+    "target_id": "bn:00005141n",
+    "lemma": "approach",
+    "pos": "n",
+    "defs": [
+      "ideas or actions intended to deal with a problem or situation",
+      "the act of drawing spatially closer to something",
+      "a way of entering or leaving",
+      "the final path followed by an aircraft as it is landing",
+      "the event of one object coming closer to another",
+      "a tentative suggestion designed to elicit the reactions of others",
+      "the temporal property of becoming nearer in time",
+      "a close approximation",
+      "a relatively short golf shot intended to put the ball onto the putting green"
+    ],
+    "gold": "Ideas or actions intended to deal with a problem or situation"
+  },
+  {
+    "sentence": "Oncogenes must be present for a cell to become malignant, but researchers have found them in normal as well as in cancerous cells, suggesting that oncogenes do n't <target>cause</target> cancer by themselves.",
+    "target_word": "cause",
+    "target_id": "bn:00084699v",
+    "lemma": "cause",
+    "pos": "v",
+    "defs": [
+      "give rise to; cause to happen or occur, not always intentionally",
+      "cause to do; cause to act in a specified manner"
+    ],
+    "gold": "Give rise to; cause to happen or occur, not always intentionally"
+  },
+  {
+    "sentence": "This work is novel because it shows the substitution of one <target>element</target> for another in fundamental biochemistry and biochemical structure,'' added Cockell.",
+    "target_word": "element",
+    "target_id": "bn:00018105n",
+    "lemma": "element",
+    "pos": "n",
+    "defs": [
+      "an abstract part of something",
+      "an artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system",
+      "any of the more than 100 known substances (of which 92 occur naturally) that cannot be separated into simpler substances and that singly or in combination constitute all matter",
+      "the most favorable environment for a plant or animal",
+      "one of four substances thought in ancient and medieval cosmology to constitute the physical universe",
+      "the situation in which you are happiest and most effective",
+      "a straight line that generates a cylinder or cone"
+    ],
+    "gold": "Any of the more than 100 known substances (of which 92 occur naturally) that cannot be separated into simpler substances and that singly or in combination constitute all matter"
+  },
+  {
+    "sentence": "An entirely new <target>band</target> rings today at Great Torrington, several of whom are members of the congregation.",
+    "target_word": "band",
+    "target_id": "bn:00008280n",
+    "lemma": "band",
+    "pos": "n",
+    "defs": [
+      "an unofficial association of people or groups",
+      "instrumentalists not including string players",
+      "a stripe or stripes of contrasting color",
+      "an adornment consisting of a strip of a contrasting color or material",
+      "a group of musicians playing popular music for dancing",
+      "a range of frequencies between two limits",
+      "a thin flat strip of flexible material that is worn around the body or one of the limbs (especially to decorate the body)",
+      "a cord-like tissue connecting two larger parts of an anatomical structure",
+      "jewelry consisting of a circlet of precious metal (often set with jewels) worn on the finger",
+      "a driving belt in machinery",
+      "a thin flat strip or loop of flexible material that goes around or over something else, typically to hold it together or as a decoration",
+      "a strip of material attached to the leg of a bird to identify it (as in studies of bird migration)",
+      "a restraint put around something to hold it together"
+    ],
+    "gold": "Instrumentalists not including string players"
+  },
+  {
+    "sentence": "In the body, pemetrexed is converted into an active form that blocks the activity of the enzymes that are involved in producing nucleotides( the building blocks of DNA and <target>RNA</target>, the genetic material of cells).",
+    "target_word": "RNA",
+    "target_id": "bn:00067714n",
+    "lemma": "rna",
+    "pos": "n",
+    "defs": [
+      "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+    ],
+    "gold": "(biochemistry) a long linear polymer of nucleotides found in the nucleus but mainly in the cytoplasm of a cell where it is associated with microsomes; it transmits genetic information from DNA to the cytoplasm and controls certain chemical processes in the cell"
+  },
+  {
+    "sentence": "Equally important, the initial discovery of the gene that controls retinal cell growth, made by a Boston doctor named Thaddeus Dryja, has opened a field of cancer study, which in recent months has <target>exploded</target>.",
+    "target_word": "exploded",
+    "target_id": "bn:00087876v",
+    "lemma": "explode",
+    "pos": "v",
+    "defs": [
+      "cause to burst with a violent release of energy",
+      "burst outward, usually with noise",
+      "show a violent emotional reaction",
+      "be unleashed; emerge with violence or noise",
+      "destroy by exploding",
+      "cause to burst as a result of air pressure; of stop consonants like /p/, /t/, and /k/",
+      "drive from the stage by noisy disapproval",
+      "show (a theory or claim) to be baseless, or refute and make obsolete",
+      "burst and release energy as through a violent chemical or physical reaction",
+      "increase rapidly and in an uncontrolled manner"
+    ],
+    "gold": "Increase rapidly and in an uncontrolled manner"
+  },
+  {
+    "sentence": "If both copies of a <target>second</target> gene were then deleted, the polyps would progress to malignancy.",
+    "target_word": "second",
+    "target_id": "bn:00095974a",
+    "lemma": "second",
+    "pos": "a",
+    "defs": [
+      "coming next after the first in position in space or time or degree or magnitude",
+      "a part or voice or instrument or orchestra section lower in pitch than or subordinate to the first"
+    ],
+    "gold": "Coming next after the first in position in space or time or degree or magnitude"
+  },
+  {
+    "sentence": "Trends in selected marine species <target>populations</target>.",
+    "target_word": "populations",
+    "target_id": "bn:00063596n",
+    "lemma": "population",
+    "pos": "n",
+    "defs": [
+      "the people who inhabit a territory or state",
+      "a group of organisms of the same species inhabiting a given area",
+      "(statistics) the entire aggregation of items from which samples can be drawn",
+      "the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.)",
+      "the act of populating (causing to live in a place)"
+    ],
+    "gold": "A group of organisms of the same species inhabiting a given area"
+  },
+  {
+    "sentence": "Such a piece of DNA would <target>probably</target> constitute a gene.",
+    "target_word": "probably",
+    "target_id": "bn:00114523r",
+    "lemma": "probably",
+    "pos": "r",
+    "defs": [
+      "with considerable certainty; without much doubt",
+      "easy to believe on the basis of available evidence"
+    ],
+    "gold": "With considerable certainty; without much doubt"
+  },
+  {
+    "sentence": "In fact, <target>justices</target> are exempt from the Code of Conduct that governs the actions of lower federal justices.",
+    "target_word": "justices",
+    "target_id": "bn:00048488n",
+    "lemma": "justice",
+    "pos": "n",
+    "defs": [
+      "the quality of being just or fair",
+      "judgment involved in the determination of rights and the assignment of rewards and punishments",
+      "a public official authorized to decide questions brought before a court of justice",
+      "the United States federal department responsible for enforcing federal laws (including the enforcement of all civil rights legislation); created in 1870"
+    ],
+    "gold": "A public official authorized to decide questions brought before a court of justice"
+  },
+  {
+    "sentence": "The indices have, however, been slowed by a renewed rise of the dollar, to a new two-month high against the <target>Euro</target>, which`` puts downward pressure on the sectors that are sensitive to the economic situation'', explained Owen Fitzpatrick from Deutsche Bank.",
+    "target_word": "Euro",
+    "target_id": "bn:00031888n",
+    "lemma": "euro",
+    "pos": "n",
+    "defs": [
+      "the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies"
+    ],
+    "gold": "The basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies"
+  },
+  {
+    "sentence": "A cross-<target>state</target> econometric investigation, furthermore, reveals that, holding other factors constant, the difference between a state 's major- party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate.",
+    "target_word": "state",
+    "target_id": "bn:00064914n",
+    "lemma": "state",
+    "pos": "n",
+    "defs": [
+      "the territory occupied by one of the constituent administrative districts of a nation",
+      "the way something is with respect to its main attributes",
+      "the group of people comprising the government of a sovereign state",
+      "a politically organized body of people under a single government",
+      "(chemistry) the three traditional states of matter are solids (fixed shape and volume) and liquids (fixed volume and shaped by the container) and gases (filling the container)",
+      "a state of depression or agitation",
+      "the territory occupied by a nation",
+      "the federal department in the United States that sets and maintains foreign policies"
+    ],
+    "gold": "The territory occupied by one of the constituent administrative districts of a nation"
+  },
+  {
+    "sentence": "The map opposite shows the Earth 's <target>surface</target> divided into 14 terrestrial biomes, or habitat types, and eight biogeographic realms.",
+    "target_word": "surface",
+    "target_id": "bn:00029430n",
+    "lemma": "surface",
+    "pos": "n",
+    "defs": [
+      "the outer boundary of an artifact or a material layer constituting or resembling such a boundary",
+      "the extended two-dimensional outer boundary of a three-dimensional object",
+      "the outermost level of the land or sea",
+      "a superficial aspect as opposed to the real nature of something",
+      "information that has become public",
+      "a device that provides reactive force when in motion relative to the surrounding air; can lift or control a plane in flight"
+    ],
+    "gold": "The outermost level of the land or sea"
+  },
+  {
+    "sentence": "Right now, we 're lucky if after five <target>years</target> we keep one new ringer out of 10,`` he adds.",
+    "target_word": "years",
+    "target_id": "bn:00078738n",
+    "lemma": "year",
+    "pos": "n",
+    "defs": [
+      "a period of time containing 365 (or 366) days",
+      "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+      "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+      "a body of students who graduate together"
+    ],
+    "gold": "A period of time containing 365 (or 366) days"
+  },
+  {
+    "sentence": "The one exception to this recent trend was the <target>defeat</target> of 13 of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982.",
+    "target_word": "defeat",
+    "target_id": "bn:00025855n",
+    "lemma": "defeat",
+    "pos": "n",
+    "defs": [
+      "an unsuccessful ending to a struggle or contest",
+      "the feeling that accompanies an experience of being thwarted in attaining your goals"
+    ],
+    "gold": "An unsuccessful ending to a struggle or contest"
+  },
+  {
+    "sentence": "Second, it explains why voters hold Congress in disdain but generally love their own congressional representatives: Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator <target>doing</target> likewise for his own constituency.",
+    "target_word": "doing",
+    "target_id": "bn:00087107v",
+    "lemma": "do",
+    "pos": "v",
+    "defs": [
+      "engage in",
+      "carry out or perform an action",
+      "get (something) done",
+      "proceed or get along",
+      "give rise to; cause to happen or occur, not always intentionally",
+      "carry out or practice; as of jobs and professions",
+      "be sufficient; be adequate, either in quality or quantity",
+      "create or design, often in a certain way",
+      "behave in a certain manner; show a certain behavior; conduct or comport oneself",
+      "spend time in prison or in a labor camp",
+      "carry on or function",
+      "arrange attractively",
+      "travel or traverse (a distance)"
+    ],
+    "gold": "Carry out or perform an action"
+  },
+  {
+    "sentence": "In compensation, temperate and tropical regions are given equal weight( with equal weight to each species in each region) within the terrestrial and freshwater indices, and to ocean basins within the marine index( see <target>pages</target> 6-11).",
+    "target_word": "pages",
+    "target_id": "bn:00060158n",
+    "lemma": "page",
+    "pos": "n",
+    "defs": [
+      "one side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains",
+      "English industrialist who pioneered in the design and manufacture of aircraft (1885-1962)",
+      "United States diplomat and writer about the Old South (1853-1922)",
+      "a boy who is employed to run errands",
+      "a youthful attendant at official functions or ceremonies such as legislative functions and weddings",
+      "in medieval times a youth acting as a knight's attendant as the first stage in training for knighthood"
+    ],
+    "gold": "One side of one leaf (of a book or magazine or newspaper or letter etc.) or the written or pictorial matter it contains"
+  },
+  {
+    "sentence": "I got home, let the dogs into the house and noticed some sounds above my head, as if someone were <target>walking</target> on the roof, or upstairs.",
+    "target_word": "walking",
+    "target_id": "bn:00095597v",
+    "lemma": "walk",
+    "pos": "v",
+    "defs": [
+      "use one's feet to advance; advance by steps",
+      "accompany or escort",
+      "obtain a base on balls",
+      "traverse or cover by walking",
+      "give a base on balls to",
+      "live or behave in a specified manner",
+      "be or act in association with",
+      "walk at a pace",
+      "make walk",
+      "take a walk; go for a walk; walk for pleasure"
+    ],
+    "gold": "Use one's feet to advance; advance by steps"
+  },
+  {
+    "sentence": "The same applies to returning straight running rivers to the meandering form they once had, nature development in the river valleys( river forelands) and peat bogs, stopping military activities on military exercise terrains and airfields, <target>constructing</target> ecoducts over motorways, etc.",
+    "target_word": "constructing",
+    "target_id": "bn:00084198v",
+    "lemma": "construct",
+    "pos": "v",
+    "defs": [
+      "make by combining materials and parts",
+      "put together out of artificial or natural components or parts; ; ; He manufactured a popular cereal\"",
+      "draw with suitable instruments and under specified conditions",
+      "create by linking linguistic units",
+      "create by organizing and linking ideas, arguments, or concepts",
+      "reassemble mentally"
+    ],
+    "gold": "Make by combining materials and parts"
+  },
+  {
+    "sentence": "This means`` tracking,`` whose main purpose is less to permit the gifted youngsters to flourish( though that is clearly desirable) than to ensure that the less gifted get the necessary grounding for further study or for entering the modern <target>world</target> of work.",
+    "target_word": "world",
+    "target_id": "bn:00028141n",
+    "lemma": "world",
+    "pos": "n",
+    "defs": [
+      "everything that exists anywhere",
+      "people in general; especially a distinctive group of people with some shared interest",
+      "all of your experiences that determine how things appear to you",
+      "the 3rd planet from the sun; the planet we live on",
+      "people in general considered as a whole",
+      "a part of the earth that can be considered separately",
+      "the concerns of this life as distinguished from heaven and the afterlife",
+      "all of the living human inhabitants of the earth"
+    ],
+    "gold": "People in general; especially a distinctive group of people with some shared interest"
+  },
+  {
+    "sentence": "The inner estuary supports extensive <target>areas</target> of reedbed with areas of mature and developing saltmarsh backed in places by limited areas of grazing marsh in the middle and outer estuary.",
+    "target_word": "areas",
+    "target_id": "bn:00005518n",
+    "lemma": "area",
+    "pos": "n",
+    "defs": [
+      "a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography)",
+      "a subject of study",
+      "a part of an animal that has a special function or is supplied by a given artery or nerve",
+      "a particular environment or walk of life",
+      "a part of a structure having some specific characteristic or function",
+      "the extent of a 2-dimensional surface enclosed within a boundary"
+    ],
+    "gold": "The extent of a 2-dimensional surface enclosed within a boundary"
+  },
+  {
+    "sentence": "In the body, pemetrexed is converted into an active form that blocks the activity of the enzymes that are involved in producing <target>nucleotides</target>( the building blocks of DNA and RNA, the genetic material of cells).",
+    "target_word": "nucleotides",
+    "target_id": "bn:00008788n",
+    "lemma": "nucleotide",
+    "pos": "n",
+    "defs": [
+      "a phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+    ],
+    "gold": "A phosphoric ester of a nucleoside; the basic structural unit of nucleic acids (DNA or RNA)"
+  },
+  {
+    "sentence": "What are the precautions for the person who gives the <target>medicine</target> or comes into contact with the animal?",
+    "target_word": "medicine",
+    "target_id": "bn:00054128n",
+    "lemma": "medicine",
+    "pos": "n",
+    "defs": [
+      "the branches of medical science that deal with nonsurgical techniques",
+      "(medicine) something that treats or prevents or alleviates the symptoms of disease",
+      "the learned profession that is mastered by graduate training in a medical school and that is devoted to preventing or alleviating or curing diseases and injuries",
+      "punishment for one's actions"
+    ],
+    "gold": "(medicine) something that treats or prevents or alleviates the symptoms of disease"
+  },
+  {
+    "sentence": "They belong to a group of 15 ringers-- including two octogenarians and four youngsters in training-- who drive every Sunday from church to church in a sometimes-exhausting effort to keep the bells <target>sounding</target> in the many belfries of East Anglia.",
+    "target_word": "sounding",
+    "target_id": "bn:00088919v",
+    "lemma": "sound",
+    "pos": "v",
+    "defs": [
+      "appear in a certain way",
+      "make a certain noise or sound",
+      "give off a certain sound or sounds",
+      "announce by means of a sound",
+      "utter with vibrating vocal chords",
+      "cause to sound",
+      "measure the depth of (a body of water) with a sounding line"
+    ],
+    "gold": "Make a certain noise or sound"
+  },
+  {
+    "sentence": "The indices have, however, been slowed by a renewed rise of the <target>dollar</target>, to a new two-month high against the Euro, which`` puts downward pressure on the sectors that are sensitive to the economic situation'', explained Owen Fitzpatrick from Deutsche Bank.",
+    "target_word": "dollar",
+    "target_id": "bn:00028114n",
+    "lemma": "dollar",
+    "pos": "n",
+    "defs": [
+      "the basic monetary unit in many countries; equal to 100 cents",
+      "a piece of paper money worth one dollar",
+      "a United States coin worth one dollar",
+      "a symbol of commercialism or greed"
+    ],
+    "gold": "The basic monetary unit in many countries; equal to 100 cents"
+  },
+  {
+    "sentence": "The daily <target>crush</target> of media tweets, cameras and reporters outside the courthouse,'' the lawyers wrote,`` was unlike anything ever seen here in New Haven and maybe statewide.''",
+    "target_word": "crush",
+    "target_id": "bn:00021278n",
+    "lemma": "crush",
+    "pos": "n",
+    "defs": [
+      "leather that has had its grain pattern accentuated",
+      "a dense crowd of people",
+      "temporary love of an adolescent",
+      "the act of crushing"
+    ],
+    "gold": "The act of crushing"
+  },
+  {
+    "sentence": "Then last spring, researchers reported finding a gene called p53 which, if impaired, turns healthy <target>colon</target> cells cancerous.",
+    "target_word": "colon",
+    "target_id": "bn:00020701n",
+    "lemma": "colon",
+    "pos": "n",
+    "defs": [
+      "the part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted",
+      "the basic unit of money in El Salvador; equal to 100 centavos",
+      "the basic unit of money in Costa Rica; equal to 100 centimos",
+      "a port city at the Caribbean entrance to the Panama Canal",
+      "a punctuation mark (:) used after a word introducing a series or an example or an explanation (or after the salutation of a business letter)"
+    ],
+    "gold": "The part of the large intestine between the cecum and the rectum; it extracts moisture from food residues before they are excreted"
+  },
+  {
+    "sentence": "Treasury 10-year bond yields have grown to 3.540% against 3.482% on <target>Tuesday</target> evening, and 30-year bond yields are at 4.497% against 4.492% the previous evening.",
+    "target_word": "Tuesday",
+    "target_id": "bn:00078546n",
+    "lemma": "tuesday",
+    "pos": "n",
+    "defs": [
+      "the third day of the week; the second working day"
+    ],
+    "gold": "The third day of the week; the second working day"
+  },
+  {
+    "sentence": "If it is, it will be treated as an operator, if it is not, it will be treated as a user <target>function</target>.",
+    "target_word": "function",
+    "target_id": "bn:00036821n",
+    "lemma": "function",
+    "pos": "n",
+    "defs": [
+      "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)",
+      "what something is used for",
+      "the actions and activities assigned to or required or expected of a person or group",
+      "a relation such that one thing is dependent on another",
+      "a formal or official social gathering or ceremony",
+      "a vaguely specified social event",
+      "a set sequence of steps, part of larger computer program"
+    ],
+    "gold": "(mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)"
+  },
+  {
+    "sentence": "expanding habitat of red deer as guide <target>species</target>.",
+    "target_word": "species",
+    "target_id": "bn:00073210n",
+    "lemma": "species",
+    "pos": "n",
+    "defs": [
+      "(biology) taxonomic group whose members can interbreed",
+      "a specific kind of something",
+      "coins collectively"
+    ],
+    "gold": "(biology) taxonomic group whose members can interbreed"
+  },
+  {
+    "sentence": "But the researchers found that the bacteria, discovered in Mono Lake, <target>Calif.</target>, is able to continue to grow after substituting arsenic for phosphorus.",
+    "target_word": "Calif.",
+    "target_id": "bn:00014403n",
+    "lemma": "calif.",
+    "pos": "n",
+    "defs": [
+      "a state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+    ],
+    "gold": "A state in the western United States on the Pacific; the 3rd largest state; known for earthquakes"
+  },
+  {
+    "sentence": "He <target>had</target> no ready answer, as much from surprise as from the fit of coughing.",
+    "target_word": "had",
+    "target_id": "bn:00089240v",
+    "lemma": "have",
+    "pos": "v",
+    "defs": [
+      "have or possess, either in a concrete or an abstract sense",
+      "have as a feature",
+      "go through (mental or physical states or experiences)",
+      "have ownership or possession of",
+      "cause to move; cause to be in a certain position or condition",
+      "serve oneself to, or consume regularly",
+      "have a personal or business relationship with someone",
+      "organize or be responsible for",
+      "have left",
+      "be confronted with",
+      "undergo",
+      "suffer from; be ill with",
+      "cause to do; cause to act in a specified manner",
+      "receive willingly something given or offered",
+      "get something; come into possession of",
+      "undergo (as of injuries and illnesses)",
+      "achieve a point or goal",
+      "cause to be born",
+      "have sex with; archaic use"
+    ],
+    "gold": "Have or possess, either in a concrete or an abstract sense"
+  },
+  {
+    "sentence": "It also rose in Mexico, where the economy has recovered after suffering a big <target>drop</target> in output last year.",
+    "target_word": "drop",
+    "target_id": "bn:00027260n",
+    "lemma": "drop",
+    "pos": "n",
+    "defs": [
+      "a shape that is spherical and small",
+      "a small indefinite quantity (especially of a liquid); ; ; ; --Kipling",
+      "a sudden sharp decrease in some quantity",
+      "a steep high face of rock",
+      "a predetermined hiding place for the deposit and distribution of illicit goods (such as drugs or stolen property)",
+      "a free and rapid descent by the force of gravity",
+      "a curtain that can be lowered and raised onto a stage from the flies; often used as background scenery",
+      "a central depository where things can be left or picked up",
+      "the act of dropping something"
+    ],
+    "gold": "A sudden sharp decrease in some quantity"
+  },
+  {
+    "sentence": "These are not necessarily indicative of general <target>species</target> trends in each region, but illustrative of the kinds of data used in the Living Planet Index.",
+    "target_word": "species",
+    "target_id": "bn:00073210n",
+    "lemma": "species",
+    "pos": "n",
+    "defs": [
+      "(biology) taxonomic group whose members can interbreed",
+      "a specific kind of something",
+      "coins collectively"
+    ],
+    "gold": "(biology) taxonomic group whose members can interbreed"
+  },
+  {
+    "sentence": "But why pay her <target>bills</target>?",
+    "target_word": "bills",
+    "target_id": "bn:00000746n",
+    "lemma": "bill",
+    "pos": "n",
+    "defs": [
+      "a statute in draft before it becomes law",
+      "an itemized statement of money owed for goods shipped or services rendered",
+      "a piece of paper money (especially one issued by a central bank)",
+      "the entertainment offered at a public presentation",
+      "an advertisement (usually printed on a page or in a leaflet) intended for wide distribution",
+      "a sign posted in a public place as an advertisement",
+      "a list of particulars (as a playbill or bill of fare)",
+      "a long-handled saw with a curved blade",
+      "a brim that projects to the front to shade the eyes",
+      "horny projecting mouth of a bird"
+    ],
+    "gold": "An itemized statement of money owed for goods shipped or services rendered"
+  },
+  {
+    "sentence": "All this may not be obvious to the public, which is <target>concerned</target> about advances in treatment, but I am convinced this basic research will begin showing results there soon.``",
+    "target_word": "concerned",
+    "target_id": "bn:00100196a",
+    "lemma": "concerned",
+    "pos": "a",
+    "defs": [
+      "feeling or showing worry or solicitude",
+      "involved in or affected by or having a claim to or share in",
+      "culpably involved"
+    ],
+    "gold": "Feeling or showing worry or solicitude"
+  },
+  {
+    "sentence": "He really did n't expect anything to come of it, and there were a few <target>people</target>",
+    "target_word": "people",
+    "target_id": "bn:00061450n",
+    "lemma": "people",
+    "pos": "n",
+    "defs": [
+      "(plural) any group of human beings (men or women or children) collectively",
+      "the body of citizens of a state or country",
+      "members of a family line",
+      "the common people generally"
+    ],
+    "gold": "(plural) any group of human beings (men or women or children) collectively"
+  },
+  {
+    "sentence": "I felt the temblor begin and glanced at the table next to mine, smiled that guilty smile and we both mouthed the words,`` <target>Earth-quake</target>!`` together.",
+    "target_word": "Earth-quake",
+    "target_id": "bn:00029448n",
+    "lemma": "earthquake",
+    "pos": "n",
+    "defs": [
+      "shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity",
+      "a disturbance that is extremely disruptive"
+    ],
+    "gold": "Shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity"
+  },
+  {
+    "sentence": "For months the Johns Hopkins researchers, using <target>gene</target> probes, experimentally crawled down the length of chromosome 17, looking for the smallest common bit of genetic material lost in all tumor cells.",
+    "target_word": "gene",
+    "target_id": "bn:00019262n",
+    "lemma": "gene",
+    "pos": "n",
+    "defs": [
+      "(genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity"
+    ],
+    "gold": "(genetics) a segment of DNA that is involved in producing a polypeptide chain; it can include regions preceding and following the coding DNA as well as introns between the exons; it is considered a unit of heredity"
+  },
+  {
+    "sentence": "Building on the corner severely damaged, so an old lady and her very old <target>mother</target> are in the guest room.",
+    "target_word": "mother",
+    "target_id": "bn:00034027n",
+    "lemma": "mother",
+    "pos": "n",
+    "defs": [
+      "a woman who has given birth to a child (also used as a term of address to your mother)",
+      "a stringy slimy substance consisting of yeast cells and bacteria; forms during fermentation and is added to cider or wine to produce vinegar",
+      "a term of address for an elderly woman",
+      "a term of address for a mother superior",
+      "a condition that is the inspiration for an activity or situation"
+    ],
+    "gold": "A woman who has given birth to a child (also used as a term of address to your mother)"
+  },
+  {
+    "sentence": "Of all scenes that evoke rural England, this is one of the loveliest: An ancient stone church stands amid the fields, the sound of bells cascading from its tower, calling the faithful to <target>evensong</target>.",
+    "target_word": "evensong",
+    "target_id": "bn:00032009n",
+    "lemma": "evensong",
+    "pos": "n",
+    "defs": [
+      "the sixth of the seven canonical hours of the divine office; early evening; now often made a public service on Sundays",
+      "(Anglican Church) a daily evening service with prayers prescribed in the Book of Common Prayer"
+    ],
+    "gold": "(Anglican Church) a daily evening service with prayers prescribed in the Book of Common Prayer"
+  },
+  {
+    "sentence": "In interviews, some journalists said the claim that instant <target>news</target> was more incendiary than reports delivered more slowly was a Luddite view that would make poor court policy governing coverage of future trials.",
+    "target_word": "news",
+    "target_id": "bn:00057546n",
+    "lemma": "news",
+    "pos": "n",
+    "defs": [
+      "information about recent and important events",
+      "information reported in a newspaper or news magazine",
+      "a program devoted to current events, often using interviews and commentary",
+      "informal information of any kind that is not previously known to someone",
+      "the quality of being sufficiently interesting to be reported in news bulletins"
+    ],
+    "gold": "Information reported in a newspaper or news magazine"
+  },
+  {
+    "sentence": "It is actually not necessary to know MathML to <target>use</target> kalgebra.",
+    "target_word": "use",
+    "target_id": "bn:00082705v",
+    "lemma": "use",
+    "pos": "v",
+    "defs": [
+      "put into service; make work or employ for a particular purpose or for its inherent or natural purpose",
+      "take or consume (regularly or habitually)",
+      "use up, consume fully",
+      "seek or achieve an end by using to one's advantage",
+      "avail oneself to",
+      "habitually do something (use only in the past tense)"
+    ],
+    "gold": "Put into service; make work or employ for a particular purpose or for its inherent or natural purpose"
+  },
+  {
+    "sentence": "They noted in a challenge to the verdict filed last month that the case dominated the <target>news</target> in Connecticut and was discussed during the election campaign by candidates for governor and the United States Senate.",
+    "target_word": "news",
+    "target_id": "bn:00057546n",
+    "lemma": "news",
+    "pos": "n",
+    "defs": [
+      "information about recent and important events",
+      "information reported in a newspaper or news magazine",
+      "a program devoted to current events, often using interviews and commentary",
+      "informal information of any kind that is not previously known to someone",
+      "the quality of being sufficiently interesting to be reported in news bulletins"
+    ],
+    "gold": "Information reported in a newspaper or news magazine"
+  },
+  {
+    "sentence": "With that <target>authority</target>, of course, goes an unambiguous accountability.",
+    "target_word": "authority",
+    "target_id": "bn:00007293n",
+    "lemma": "authority",
+    "pos": "n",
+    "defs": [
+      "the power or right to give orders or make decisions",
+      "(usually plural) persons who exercise (administrative) control over others",
+      "an expert whose views are taken as definitive",
+      "freedom from doubt; belief in yourself and your abilities",
+      "an administrative unit of government",
+      "official permission or approval",
+      "an authoritative written work"
+    ],
+    "gold": "The power or right to give orders or make decisions"
+  },
+  {
+    "sentence": "These extra funds are intended for land acquisition, design, management, defragmentation measures and for measures to combat <target>water</target> depletion in the nature areas.",
+    "target_word": "water",
+    "target_id": "bn:00080563n",
+    "lemma": "water",
+    "pos": "n",
+    "defs": [
+      "binary compound that occurs at room temperature as a clear colorless odorless tasteless liquid; freezes into ice below 0 degrees centigrade and boils above 100 degrees centigrade; widely used as a solvent",
+      "the part of the earth's surface covered with water (such as a river or lake or ocean)",
+      "once thought to be one of four elements composing the universe (Empedocles)",
+      "a facility that provides a source of water",
+      "liquid excretory product",
+      "a liquid necessary for the life of most animals and plants"
+    ],
+    "gold": "A liquid necessary for the life of most animals and plants"
+  },
+  {
+    "sentence": "It does suggest that that there could be other ways to form <target>life</target>, not just how life formed on early Earth,'' said Foster, who was not part of Wolfe-Simon 's research team.",
+    "target_word": "life",
+    "target_id": "bn:00051054n",
+    "lemma": "life",
+    "pos": "n",
+    "defs": [
+      "a characteristic state or mode of living",
+      "the experience of being alive; the course of human events and activities",
+      "the course of existence of an individual; the actions and events that occur in living",
+      "the condition of living or the state of being alive",
+      "the period during which something is functional (as between birth and death)",
+      "the period between birth and the present time",
+      "the period from the present until death",
+      "a living person",
+      "animation and energy in action or expression",
+      "living things collectively",
+      "the organic phenomenon that distinguishes living organisms from nonliving ones",
+      "an account of the series of events making up a person's life",
+      "a motive for living",
+      "a prison term lasting as long as the prisoner lives"
+    ],
+    "gold": "The organic phenomenon that distinguishes living organisms from nonliving ones"
+  },
+  {
+    "sentence": "Dr. Minna <target>believes</target> people who inherit a defective gene somewhere on one of their two copies of chromosome 3 are especially prone to lung cancer.",
+    "target_word": "believes",
+    "target_id": "bn:00083371v",
+    "lemma": "believe",
+    "pos": "v",
+    "defs": [
+      "accept as true; take to be true",
+      "judge or regard; look upon; judge",
+      "be confident about something",
+      "follow a credo; have a faith; be a believer",
+      "credit with veracity"
+    ],
+    "gold": "Be confident about something"
+  },
+  {
+    "sentence": "The design <target>phase</target> is a very important stage in this process in order to convert the objectives( and the wishes) into the desired result.",
+    "target_word": "phase",
+    "target_id": "bn:00061898n",
+    "lemma": "phase",
+    "pos": "n",
+    "defs": [
+      "any distinct time period in a sequence of events",
+      "(physical chemistry) a distinct state of matter in a system; matter that is identical in chemical composition and physical state and separated from other material by the phase boundary",
+      "a particular point in the time of a cycle; measured from some arbitrary zero and expressed as an angle",
+      "(astronomy) the particular appearance of a body's state of illumination (especially one of the recurring shapes of the part of Earth's moon that is illuminated by the sun)"
+    ],
+    "gold": "Any distinct time period in a sequence of events"
+  },
+  {
+    "sentence": "Key speakers at the social exclusion conference were( left to right) Cristina Louro, Employment, Industrial Relations and Social Affairs Directorate, European Commission Fernando Gomes, a high degree of Committee of the Regions Barbara Weiler, Member of the European <target>Parliament</target> Jos\u00e9 Maria Gil-Robles, Vice-President, European Parliament and John Carroll, Economic and Social Committee.",
+    "target_word": "Parliament",
+    "target_id": "bn:00060708n",
+    "lemma": "parliament",
+    "pos": "n",
+    "defs": [
+      "a legislative assembly in certain countries",
+      "a card game in which you play your sevens and other cards in sequence in the same suit as the sevens; you win if you are the first to use all your cards"
+    ],
+    "gold": "A legislative assembly in certain countries"
+  },
+  {
+    "sentence": "It <target>made</target> our New Year,`` says Mr. Quinlan.",
+    "target_word": "made",
+    "target_id": "bn:00090579v",
+    "lemma": "make",
+    "pos": "v",
+    "defs": [
+      "engage in",
+      "give certain properties to something",
+      "make or cause to be or to become",
+      "cause to do; cause to act in a specified manner",
+      "give rise to; cause to happen or occur, not always intentionally",
+      "create or manufacture a man-made product",
+      "make, formulate, or derive in the mind",
+      "compel or make somebody or something to act in a certain way",
+      "create by artistic means",
+      "earn on some commercial or business transaction; earn as salary or wages",
+      "create or design, often in a certain way",
+      "to compose or represent:",
+      "reach a goal, e.g.,",
+      "be or be capable of being changed or made into",
+      "make by shaping or bringing together constituents",
+      "perform or carry out",
+      "make by combining materials and parts",
+      "change from one form into another",
+      "act in a certain way so as to acquire",
+      "charge with a function; charge to be",
+      "achieve a point or goal",
+      "reach a destination, either real or abstract",
+      "institute, enact, or establish",
+      "carry out or commit",
+      "form by assembling individuals or constituents",
+      "organize or be responsible for",
+      "put in order or neaten",
+      "head into a specified direction",
+      "have a bowel movement",
+      "undergo fabrication or creation",
+      "be suitable for",
+      "add up to",
+      "amount to",
+      "constitute the essence of",
+      "appear to begin an activity",
+      "proceed along a path",
+      "reach in time",
+      "gather and light the materials for",
+      "prepare for eating by applying heat",
+      "induce to have sex",
+      "assure the success of",
+      "represent fictitiously, as in a play, or pretend to be or act like",
+      "consider as being",
+      "calculate as being",
+      "cause to be enjoyable or pleasurable",
+      "favor the development of",
+      "develop into",
+      "behave in a certain way",
+      "eliminate urine"
+    ],
+    "gold": "Cause to be enjoyable or pleasurable"
+  },
+  {
+    "sentence": "In patients who had received chemotherapy in the past, the average survival <target>time</target> was 8.3 months with Alimta, compared with 7.9 months with docetaxel.",
+    "target_word": "time",
+    "target_id": "bn:00077268n",
+    "lemma": "time",
+    "pos": "n",
+    "defs": [
+      "an instance or single occasion for some event",
+      "a period of time considered as a resource under your control and sufficient to accomplish something",
+      "an indefinite period (usually marked by specific attributes or activities)",
+      "a suitable moment",
+      "the continuum of experience in which events pass from the future through the present to the past",
+      "a person's experience on a particular occasion",
+      "a reading of a point in time as given by a clock",
+      "the fourth coordinate that is required (along with three spatial dimensions) to specify a physical event",
+      "rhythm as given by division into parts of equal duration",
+      "the period of time a prisoner is imprisoned"
+    ],
+    "gold": "An indefinite period (usually marked by specific attributes or activities)"
+  },
+  {
+    "sentence": "Indian/ Southeast Asian and Pacific Ocean Living Planet <target>Indices</target>.",
+    "target_word": "Indices",
+    "target_id": "bn:00046418n",
+    "lemma": "index",
+    "pos": "n",
+    "defs": [
+      "a numerical scale used to compare variables with one another or with some reference number",
+      "a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time",
+      "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+      "an alphabetical listing of names and topics along with page numbers where they are discussed",
+      "the finger next to the thumb"
+    ],
+    "gold": "A number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time"
+  },
+  {
+    "sentence": "Maybe <target>suicide</target>, if it looks reasonable.",
+    "target_word": "suicide",
+    "target_id": "bn:00070332n",
+    "lemma": "suicide",
+    "pos": "n",
+    "defs": [
+      "the act of killing yourself",
+      "a person who kills himself intentionally"
+    ],
+    "gold": "The act of killing yourself"
+  },
+  {
+    "sentence": "It explains how the <target>Committee</target> for Medicinal Products for Human Use( CHMP) assessed the studies performed, to reach their recommendations on how to use the medicine.",
+    "target_word": "Committee",
+    "target_id": "bn:00021015n",
+    "lemma": "committee",
+    "pos": "n",
+    "defs": [
+      "a special group delegated to consider some matter;  - Milton Berle",
+      "a self-constituted organization to promote something"
+    ],
+    "gold": "A special group delegated to consider some matter"
+  },
+  {
+    "sentence": "See <target>Table</target> 6, page 37.",
+    "target_word": "Table",
+    "target_id": "bn:00075812n",
+    "lemma": "table",
+    "pos": "n",
+    "defs": [
+      "a set of data arranged in rows and columns",
+      "a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs",
+      "a piece of furniture with tableware for a meal laid out on it",
+      "flat tableland with steep edges",
+      "a company of people assembled at a table for a meal or game",
+      "food or meals in general"
+    ],
+    "gold": "A set of data arranged in rows and columns"
+  },
+  {
+    "sentence": "Living Planet <target>Indices</target>.",
+    "target_word": "Indices",
+    "target_id": "bn:00046418n",
+    "lemma": "index",
+    "pos": "n",
+    "defs": [
+      "a numerical scale used to compare variables with one another or with some reference number",
+      "a number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time",
+      "a mathematical notation indicating the number of times a quantity is multiplied by itself",
+      "an alphabetical listing of names and topics along with page numbers where they are discussed",
+      "the finger next to the thumb"
+    ],
+    "gold": "A number or ratio (a value on a scale of measurement) derived from a series of observed facts; can reveal relative changes as a function of time"
+  },
+  {
+    "sentence": "The whole notion of`` creativity`` in education was( and is) part and parcel of a romantic rebellion against disciplined instruction, which was( and is) regarded as`` authoritarian,`` a repression and frustration of the latent talents and the wonderful, if as <target>yet</target> undefined, potentialities inherent in the souls of all our children.",
+    "target_word": "yet",
+    "target_id": "bn:00117654r",
+    "lemma": "yet",
+    "pos": "r",
+    "defs": [
+      "up to the present time",
+      "used in negative statement to describe a situation that has existed up to this point or up to the present time",
+      "to a greater degree or extent; used with comparisons",
+      "within an indefinite time or at an unspecified future time",
+      "used after a superlative",
+      "despite anything to the contrary (usually following a concession)"
+    ],
+    "gold": "Up to the present time"
+  },
+  {
+    "sentence": "Although a GOP president may limit local benefits to the voter 's <target>particular</target> district/state, such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits.",
+    "target_word": "particular",
+    "target_id": "bn:00108296a",
+    "lemma": "particular",
+    "pos": "a",
+    "defs": [
+      "unique or specific to a person or thing or category",
+      "separate and distinct from others of the same group or category",
+      "surpassing what is common or usual or expected",
+      "first and most important",
+      "exacting especially about details",
+      "providing specific details or circumstances"
+    ],
+    "gold": "Separate and distinct from others of the same group or category"
+  },
+  {
+    "sentence": "The <target>research</target> was supported by NASA, the Department of Energy and the National Institutes of Health.",
+    "target_word": "research",
+    "target_id": "bn:00067280n",
+    "lemma": "research",
+    "pos": "n",
+    "defs": [
+      "systematic investigation to establish facts",
+      "a search for knowledge"
+    ],
+    "gold": "Systematic investigation to establish facts"
+  },
+  {
+    "sentence": "His doubts stemmed from the fact that several years <target>earlier</target> a Princeton University researcher, Arnold Levine, had found in experiments with mice that a gene called p53 could transform normal cells into cancerous ones.",
+    "target_word": "earlier",
+    "target_id": "bn:00114512r",
+    "lemma": "earlier",
+    "pos": "r",
+    "defs": [
+      "earlier in time; previously",
+      "comparatives of `soon' or `early'",
+      "before now"
+    ],
+    "gold": "Earlier in time; previously"
+  },
+  {
+    "sentence": "There would then be sufficient food throughout the year, which would increase the survival <target>rates</target> of the present populations and the viability of these populations.",
+    "target_word": "rates",
+    "target_id": "bn:00066236n",
+    "lemma": "rate",
+    "pos": "n",
+    "defs": [
+      "a magnitude or frequency relative to a time unit",
+      "amount of a charge or payment relative to some basis",
+      "the relative speed of progress or change",
+      "a quantity or amount or measure considered as a proportion of another quantity or amount or measure"
+    ],
+    "gold": "A magnitude or frequency relative to a time unit"
+  },
+  {
+    "sentence": "A more robust economic performance is reflected in rising support for private enterprise and the market economy: some 71% of respondents across the region say that private enterprise is indispensable for development, up from 56% in 2007( see <target>chart</target> 6).",
+    "target_word": "chart",
+    "target_id": "bn:00017904n",
+    "lemma": "chart",
+    "pos": "n",
+    "defs": [
+      "a visual display of information",
+      "a map designed to assist navigation by air or sea"
+    ],
+    "gold": "A visual display of information"
+  },
+  {
+    "sentence": "Seeking alternatives to early retirement and <target>redundancy</target>, the project is primarily concerned with the retention, reintegration and retraining of older workers.",
+    "target_word": "redundancy",
+    "target_id": "bn:00066743n",
+    "lemma": "redundancy",
+    "pos": "n",
+    "defs": [
+      "repetition of messages to reduce the probability of errors in transmission",
+      "the attribute of being superfluous and unneeded",
+      "(electronics) a system design that duplicates components to provide alternatives in case one component fails",
+      "repetition of an act needlessly"
+    ],
+    "gold": "The attribute of being superfluous and unneeded"
+  },
+  {
+    "sentence": "The purpose of this connection is to <target>increase</target> the coherence between important international peat bogs.",
+    "target_word": "increase",
+    "target_id": "bn:00089667v",
+    "lemma": "increase",
+    "pos": "v",
+    "defs": [
+      "become bigger or greater in amount",
+      "make bigger or more"
+    ],
+    "gold": "Make bigger or more"
+  },
+  {
+    "sentence": "The report and a casebook of initiatives will be published in 1996 and provide the backdrop for a conference to be staged in <target>Autumn</target>, 1996.",
+    "target_word": "Autumn",
+    "target_id": "bn:00007406n",
+    "lemma": "autumn",
+    "pos": "n",
+    "defs": [
+      "the season when the leaves fall from the trees"
+    ],
+    "gold": "The season when the leaves fall from the trees"
+  },
+  {
+    "sentence": "The art of change-ringing is peculiar to the <target>English</target>, and, like most English peculiarities, unintelligible to the rest of the world.",
+    "target_word": "English",
+    "target_id": "bn:00102248a",
+    "lemma": "english",
+    "pos": "a",
+    "defs": [
+      "of or relating to or characteristic of England or its culture or people",
+      "of or relating to the English language"
+    ],
+    "gold": "Of or relating to or characteristic of England or its culture or people"
+  },
+  {
+    "sentence": "Patterns in freshwater biodiversity follow similar distinctions based on biogeographic realms, but marine realms are less well defined, partly because marine species tend to be distributed more widely across the world 's <target>oceans</target>.",
+    "target_word": "oceans",
+    "target_id": "bn:00058574n",
+    "lemma": "ocean",
+    "pos": "n",
+    "defs": [
+      "a large body of water constituting a principal part of the hydrosphere",
+      "anything apparently limitless in quantity or volume"
+    ],
+    "gold": "A large body of water constituting a principal part of the hydrosphere"
+  },
+  {
+    "sentence": "He was enjoying the weekly ritual of washing down his pet <target>grievance</target> with bourbon slightly moistened with water.",
+    "target_word": "grievance",
+    "target_id": "bn:00041785n",
+    "lemma": "grievance",
+    "pos": "n",
+    "defs": [
+      "a resentment strong enough to justify retaliation",
+      "an allegation that something imposes an illegal obligation or denies some legal right or causes injustice",
+      "a complaint about a (real or imaginary) wrong that causes resentment and is grounds for action"
+    ],
+    "gold": "A resentment strong enough to justify retaliation"
+  },
+  {
+    "sentence": "In order to realise the National Ecological <target>Network</target> by 2018 and to enhance the coherence within the National Ecological Network great efforts have to be made towards realising the surface area of the National Ecological Network( some 730,000 ha of land by 2018).",
+    "target_word": "Network",
+    "target_id": "bn:00057379n",
+    "lemma": "network",
+    "pos": "n",
+    "defs": [
+      "an interconnected system of things or people",
+      "(broadcasting) a communication system consisting of a group of broadcasting stations that all transmit the same programs",
+      "an open fabric of string or rope or wire woven together at regular intervals",
+      "a system of intersecting lines or channels",
+      "(electronics) a system of interconnected electronic components or circuits"
+    ],
+    "gold": "An interconnected system of things or people"
+  },
+  {
+    "sentence": "Change-ringing, a mind-boggling exercise the English invented 380 <target>years</target> ago, requires physical dexterity-- some bells weigh more than a ton-- combined with intense mental concentration.",
+    "target_word": "years",
+    "target_id": "bn:00078738n",
+    "lemma": "year",
+    "pos": "n",
+    "defs": [
+      "a period of time containing 365 (or 366) days",
+      "a period of time occupying a regular part of a calendar year that is used for some particular activity",
+      "the period of time that it takes for a planet (as, e.g., Earth or Mars) to make a complete revolution around the sun",
+      "a body of students who graduate together"
+    ],
+    "gold": "A period of time containing 365 (or 366) days"
+  },
+  {
+    "sentence": "All this may not be obvious to the public, which is concerned about advances in treatment, but I am convinced this <target>basic</target> research will begin showing results there soon.``",
+    "target_word": "basic",
+    "target_id": "bn:00098100a",
+    "lemma": "basic",
+    "pos": "a",
+    "defs": [
+      "pertaining to or constituting a base or basis",
+      "reduced to the simplest and most significant form possible without loss of generality",
+      "serving as a base or starting point",
+      "of or denoting or of the nature of or containing a base"
+    ],
+    "gold": "Pertaining to or constituting a base or basis"
+  },
+  {
+    "sentence": "Each tablet is marked with the Pfizer logo on one side and with the letters MPT and the <target>quantity</target> of maropitant on the other side.",
+    "target_word": "quantity",
+    "target_id": "bn:00003603n",
+    "lemma": "quantity",
+    "pos": "n",
+    "defs": [
+      "how much there is or how many there are of something that you can quantify",
+      "an adequate or large amount",
+      "the concept that something has a magnitude and can be represented in mathematical expressions by a constant or a variable"
+    ],
+    "gold": "How much there is or how many there are of something that you can quantify"
+  },
+  {
+    "sentence": "1-RRB- Voters can`` buy`` one of two brands when they select their political agents-- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action, and a <target>Democratic</target> brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest.",
+    "target_word": "Democratic",
+    "target_id": "bn:00101149a",
+    "lemma": "democratic",
+    "pos": "a",
+    "defs": [
+      "characterized by or advocating or based upon the principles of democracy or social equality; ; ; - George du Maurier",
+      "belong to or relating to the Democratic Party",
+      "representing or appealing to or adapted for the benefit of the people at large"
+    ],
+    "gold": "Belong to or relating to the Democratic Party"
+  },
+  {
+    "sentence": "Below these tabs you will <target>find</target> an input field to type your functions or do your calculations.",
+    "target_word": "find",
+    "target_id": "bn:00086708v",
+    "lemma": "find",
+    "pos": "v",
+    "defs": [
+      "come upon, as if by accident; meet with",
+      "discover or determine the existence, presence, or fact of",
+      "come upon after searching; find the location of something that was missed or lost",
+      "establish after a calculation, investigation, experiment, survey, or study",
+      "come to believe on the basis of emotion, intuitions, or indefinite grounds",
+      "perceive or be contemporaneous with",
+      "get something or somebody for a specific purpose",
+      "make a discovery, make a new finding",
+      "make a discovery",
+      "obtain through effort or management",
+      "decide on and make a declaration about",
+      "receive a specified treatment (abstract)",
+      "perceive oneself to be in a certain condition or place",
+      "get or find back; recover the use of",
+      "succeed in reaching; arrive at",
+      "accept and make use of one's personality, abilities, and situation"
+    ],
+    "gold": "Discover or determine the existence, presence, or fact of"
+  },
+  {
+    "sentence": "The <target>issue</target> centres on the sale of mortgage securities.",
+    "target_word": "issue",
+    "target_id": "bn:00047688n",
+    "lemma": "issue",
+    "pos": "n",
+    "defs": [
+      "an important question that is in dispute and must be settled",
+      "one of a series published periodically",
+      "some situation or event that is thought about",
+      "the act of providing an item for general use or for official purposes (usually in quantity)",
+      "supplies (as food or clothing or ammunition) issued by the government",
+      "the income or profit arising from such transactions as the sale of land or other property",
+      "a phenomenon that follows and is caused by some previous phenomenon",
+      "the immediate descendants of a person",
+      "the becoming visible",
+      "an opening that permits escape or release",
+      "the act of issuing printed materials"
+    ],
+    "gold": "An important question that is in dispute and must be settled"
+  },
+  {
+    "sentence": "On Costa Rican <target>side</target>, and close to Michael Umana, are the left-lateral Junior Diaz, with 48 matches and the striker Bryan Ruiz, with 45.",
+    "target_word": "side",
+    "target_id": "bn:00071432n",
+    "lemma": "side",
+    "pos": "n",
+    "defs": [
+      "a place within a region identified relative to a center or reference location",
+      "one of two or more contesting groups",
+      "either the left or right half of a body",
+      "a surface forming part of the outside of an object",
+      "an extended outer surface of an object",
+      "an aspect of something (as contrasted with some other implied aspect)",
+      "a line segment forming part of the perimeter of a plane figure",
+      "a family line of descent",
+      "a lengthwise dressed half of an animal's carcass used for food",
+      "an opinion that is held in opposition to another in an argument or dispute",
+      "an elevated geological formation",
+      "(sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist"
+    ],
+    "gold": "One of two or more contesting groups"
+  },
+  {
+    "sentence": "By Wednesday the landlord was still <target>alive</target>.",
+    "target_word": "alive",
+    "target_id": "bn:00096787a",
+    "lemma": "alive",
+    "pos": "a",
+    "defs": [
+      "possessing life",
+      "(often followed by `with') full of life and spirit",
+      "having life or vigor or spirit",
+      "(followed by `to' or `of') aware of",
+      "in operation",
+      "mentally perceptive and responsive",
+      "capable of erupting"
+    ],
+    "gold": "Possessing life"
+  },
+  {
+    "sentence": "New York is in the process of <target>trying</target> to disengage itself from a 20-year-old commitment to this system of school governance, even as Chicago and other cities are moving to institute it.",
+    "target_word": "trying",
+    "target_id": "bn:00082844v",
+    "lemma": "try",
+    "pos": "v",
+    "defs": [
+      "make an effort or attempt",
+      "put to the test, as for its quality, or give experimental use to",
+      "put on trial or hear a case and sit as the judge at the trial of",
+      "take a sample of",
+      "examine or hear (evidence or a case) by judicial process",
+      "give pain or trouble to",
+      "test the limits of",
+      "melt (fat or lard) in order to separate out impurities",
+      "put on a garment in order to see whether it fits and looks nice"
+    ],
+    "gold": "Make an effort or attempt"
+  },
+  {
+    "sentence": "Says Mr. Baldwin,`` We <target>recognize</target> that we may no longer have as high a priority in church life and experience.``",
+    "target_word": "recognize",
+    "target_id": "bn:00082472v",
+    "lemma": "recognize",
+    "pos": "v",
+    "defs": [
+      "accept (someone) to be what is claimed or accept his power and authority",
+      "be fully aware or cognizant of",
+      "detect with the senses",
+      "perceive to be the same",
+      "grant credentials to",
+      "express greetings upon meeting someone",
+      "express obligation, thanks, or gratitude for",
+      "exhibit recognition for (an antigen or a substrate)",
+      "show approval or appreciation of"
+    ],
+    "gold": "Be fully aware or cognizant of"
+  },
+  {
+    "sentence": "In most states, increasing expenditures on education, in our <target>current</target> circumstances, will probably make things worse, not better.",
+    "target_word": "current",
+    "target_id": "bn:00100790a",
+    "lemma": "current",
+    "pos": "a",
+    "defs": [
+      "occurring in or belonging to the present time"
+    ],
+    "gold": "Occurring in or belonging to the present time"
+  },
+  {
+    "sentence": "kalgebra main window consists in a <target>Console</target> tab, a 2D Graph tab, a 3D Graph tab and a Dictionary tab.",
+    "target_word": "Console",
+    "target_id": "bn:00022002n",
+    "lemma": "console",
+    "pos": "n",
+    "defs": [
+      "a small table fixed to a wall or designed to stand against a wall",
+      "a scientific instrument consisting of displays and an input device that an operator can use to monitor and control a system (especially a computer system)",
+      "an ornamental scroll-shaped bracket (especially one used to support a wall fixture)",
+      "housing for electronic instruments, as radio or television"
+    ],
+    "gold": "A scientific instrument consisting of displays and an input device that an operator can use to monitor and control a system (especially a computer system)"
+  }
+]
